@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXxCUMi3rrSvpFw5YeiFnM8jHVq8ZaGKiBenyMQwpyG2D",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    }
+  ]
+}

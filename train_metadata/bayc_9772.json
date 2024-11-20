@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmSbWKR91Qgbvd7RBXLAoJxPhQtZCmdMJFgmSUadzmXVWT",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    }
+  ]
+}

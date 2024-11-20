@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmQCc9Jrz1ZXb3NbauEoP4qaEh2Uz93ckiwTdKNmzqmeBL",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    }
+  ]
+}

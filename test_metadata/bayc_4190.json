@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWvajK8HXfCcHi157kroCsJtLeeCaM5kCQfv3hdMY4ncB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    }
+  ]
+}

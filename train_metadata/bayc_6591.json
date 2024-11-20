@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmNk1Bf334fY4xFVvVuVbssNYo3fBh9Q4dNoPckUVoJxMU",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    }
+  ]
+}

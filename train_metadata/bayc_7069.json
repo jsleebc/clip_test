@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP3hzE1KddyrSb7Vds6XRvgqfea6NRaPf49ZjWEDpv1Fv",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

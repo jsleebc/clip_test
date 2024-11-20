@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSB2zrBZnrhFxP9ixnw71UPeosuPKUD61Y8eb8JHRvUkG",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    }
+  ]
+}

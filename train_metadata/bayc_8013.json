@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcLVT7guB6jWRDVPnsKimFMDUyd33hFy4ahsR9u2mkwS4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

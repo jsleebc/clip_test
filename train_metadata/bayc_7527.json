@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTkEEUu3T3aEkyzbapEGpvkmvVgbSnWyrEWVWmaeUv5KS",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

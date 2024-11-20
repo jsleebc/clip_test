@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYTRPeQj6rJXNsnMCo8jbrT9zTx7v5yCpjHeRwy5c1pax",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

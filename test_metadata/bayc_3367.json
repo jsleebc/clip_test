@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPReeaQz3YpDY25EQTcSdCrxXMeaLRbJVCD9LqUwDVo33",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    }
+  ]
+}

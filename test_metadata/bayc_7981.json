@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmeba7HtnZBvJHwXPxLqDL7ELs2hH2oAjecBtT5CXGRR6G",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    }
+  ]
+}

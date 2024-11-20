@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeQGd8Vm3qWKvnUgviYq826vvLudg1s2zosB4Hq8qKS4B",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

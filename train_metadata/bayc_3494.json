@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT2UuPTeSJHQiCExtoH2xEFg4ew7UBCw8HfB1GRh4aG9J",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

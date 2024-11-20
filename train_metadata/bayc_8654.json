@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmdx4SNrogwGYK7s1DwmmZUuEKKZTPzQhNQ9MpmJW9BxqD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    }
+  ]
+}

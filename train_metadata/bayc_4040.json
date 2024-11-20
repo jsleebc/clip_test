@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaBVkJ8r4iPeBCGmPoTuJm3hSskens5PNbxpB7ZAfXhcs",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

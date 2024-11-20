@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbgX56U9uPNecT3Hbg8UvuVNL5fhTRjicXQrrp1sm7bhv",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

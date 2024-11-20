@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXe5NRhCCzZQqY2H5gSdDs4GetymumMQ8PhFMHACtLCYE",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

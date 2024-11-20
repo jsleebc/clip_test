@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVMWGC7Y9mtbfupp6zwddLRAAWYz3kLEkMZBBXHP3AWzJ",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

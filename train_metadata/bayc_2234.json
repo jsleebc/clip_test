@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmekLT86Nv3UKrTsGe76T8oNzeKUgb9QzrEcEdmTy41wXA",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

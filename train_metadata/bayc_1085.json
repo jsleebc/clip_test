@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRrTPDEiVpemeJj3W2ZtXjDBFZCLRt2f69okKwVSFLsWC",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

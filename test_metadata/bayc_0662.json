@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSDAHugrhs72KLUSnXLmQvaYcotfDv4g9DG48QLKjZuJb",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    }
+  ]
+}

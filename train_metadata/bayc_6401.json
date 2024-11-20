@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPLRxnyhcEtYAB37JNoRyH4LKc4uFHEYXvJyaXDAh8UyV",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    }
+  ]
+}

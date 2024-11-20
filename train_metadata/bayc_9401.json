@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbZXqCstvK8y1FUybjHa8VVbYBKV12Vx4oyWXGC43XS8r",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

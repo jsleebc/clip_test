@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmNv4Q69dEdAQwGqfbKjvJ4x8wcHZx9fU7rQi1YQUJHyKK",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+Trait Type,Value,Count,Percentage
+Eyes,Angry,76,3.8
+Eyes,Closed,181,9.05
+Eyes,Robot,78,3.9
+Eyes,Wide Eyed,105,5.25
+Eyes,Heart,83,4.15
+Eyes,Sleepy,139,6.95
+Eyes,Bloodshot,151,7.55
+Eyes,Coins,110,5.5
+Eyes,Sunglasses,69,3.45
+Eyes,Sad,104,5.2
+Eyes,Hypnotized,40,2.0
+Eyes,Crazy,74,3.7
+Eyes,Eyepatch,81,4.05
+Eyes,Bored,338,16.91
+Eyes,Zombie,62,3.1
+Eyes,3d,106,5.3
+Eyes,Laser Eyes,17,0.85
+Eyes,Scumbag,31,1.55
+Eyes,Blindfold,52,2.6
+Eyes,X Eyes,38,1.9
+Eyes,Holographic,31,1.55
+Eyes,Cyborg,20,1.0
+Eyes,Blue Beams,13,0.65
+Fur,Tan,124,6.2
+Fur,Brown,283,14.16
+Fur,Dark Brown,263,13.16
+Fur,Black,213,10.66
+Fur,White,77,3.85
+Fur,Death Bot,38,1.9
+Fur,Red,102,5.1
+Fur,Cream,146,7.3
+Fur,Pink,100,5.0
+Fur,Blue,98,4.9
+Fur,Golden Brown,155,7.75
+Fur,Robot,52,2.6
+Fur,Zombie,58,2.9
+Fur,Cheetah,93,4.65
+Fur,Noise,28,1.4
+Fur,Gray,92,4.6
+Fur,Trippy,22,1.1
+Fur,Dmt,44,2.2
+Fur,Solid Gold,11,0.55
+Background,New Punk Blue,263,13.16
+Background,Aquamarine,253,12.66
+Background,Army Green,247,12.36
+Background,Blue,248,12.41
+Background,Yellow,260,13.01
+Background,Purple,236,11.81
+Background,Gray,217,10.86
+Background,Orange,275,13.76
+Mouth,Bored Cigarette,149,7.45
+Mouth,Bored Party Horn,18,0.9
+Mouth,Bored Unshaven,306,15.31
+Mouth,Discomfort,42,2.1
+Mouth,Bored,444,22.21
+Mouth,Bored Unshaven Pizza,5,0.25
+Mouth,Phoneme L,42,2.1
+Mouth,Bored Dagger,7,0.35
+Mouth,Phoneme Wah,29,1.45
+Mouth,Rage,63,3.15
+Mouth,Bored Pipe,24,1.2
+Mouth,Bored Unshaven Cigarette,93,4.65
+Mouth,Tongue Out,49,2.45
+Mouth,Bored Bubblegum,28,1.4
+Mouth,Bored Unshaven Kazoo,9,0.45
+Mouth,Bored Cigar,28,1.4
+Mouth,Bored Unshaven Dagger,11,0.55
+Mouth,Bored Unshaven Cigar,19,0.95
+Mouth,Dumbfounded,112,5.6
+Mouth,Phoneme  ooo,60,3.0
+Mouth,Grin Diamond Grill,17,0.85
+Mouth,Small Grin,52,2.6
+Mouth,Phoneme Vuh,55,2.75
+Mouth,Jovial,61,3.05
+Mouth,Grin,134,6.7
+Mouth,Bored Kazoo,18,0.9
+Mouth,Grin Gold Grill,18,0.9
+Mouth,Bored Unshaven Bubblegum,12,0.6
+Mouth,Phoneme Oh,40,2.0
+Mouth,Bored Unshaven Pipe,18,0.9
+Mouth,Bored Pizza,8,0.4
+Mouth,Grin Multicolored,21,1.05
+Mouth,Bored Unshaven Party horn,7,0.35
+Clothes,Striped Tee,76,3.8
+Clothes,Bone Tee,56,2.8
+Clothes,Hip Hop,34,1.7
+Clothes,Leather Jacket,35,1.75
+Clothes,Tie Dye,34,1.7
+Clothes,Smoking Jacket,44,2.2
+Clothes,Tweed Suit,23,1.15
+Clothes,Tanktop,43,2.15
+Clothes,Hawaiian,60,3.0
+Clothes,Cowboy Shirt,19,0.95
+Clothes,Bayc T Red,25,1.25
+Clothes,Work Vest,28,1.4
+Clothes,Black T,64,3.2
+Clothes,Tuxedo Tee,48,2.4
+Clothes,Navy Striped Tee,64,3.2
+Clothes,Prison Jumpsuit,49,2.45
+Clothes,Vietnam Jacket,33,1.65
+Clothes,Leather Punk Jacket,26,1.3
+Clothes,Wool Turtleneck,48,2.4
+Clothes,Sleeveless Logo T,24,1.2
+Clothes,Bandolier,39,1.95
+Clothes,Bayc T Black,36,1.8
+Clothes,Sailor Shirt,48,2.4
+Clothes,Caveman Pelt,31,1.55
+Clothes,Pimp Coat,15,0.75
+Clothes,Biker Vest,65,3.25
+Clothes,Prom Dress,19,0.95
+Clothes,Puffy Vest,34,1.7
+Clothes,Blue Dress,11,0.55
+Clothes,Black Suit,7,0.35
+Clothes,Guayabera,63,3.15
+Clothes,Sleeveless T,61,3.05
+Clothes,Admirals Coat,15,0.75
+Clothes,Black Holes T,37,1.85
+Clothes,Lab Coat,22,1.1
+Clothes,Bone Necklace,46,2.3
+Clothes,Lumberjack Shirt,48,2.4
+Clothes,Rainbow Suspenders,21,1.05
+Clothes,Stunt Jacket,40,2.0
+Clothes,Kings Robe,9,0.45
+Clothes,Toga,42,2.1
+Clothes,Space Suit,17,0.85
+Clothes,Service,24,1.2
+Hat,Beanie,101,5.05
+Hat,Sea Captain's Hat,63,3.15
+Hat,Cowboy Hat,67,3.35
+Hat,Seaman's Hat,81,4.05
+Hat,Fez,85,4.25
+Hat,Commie Hat,65,3.25
+Hat,Police Motorcycle Helmet,37,1.85
+Hat,Stuntman Helmet,40,2.0
+Hat,Bayc Hat Black,54,2.7
+Hat,S&m Hat,44,2.2
+Hat,Horns,56,2.8
+Hat,Trippy Captain's Hat,19,0.95
+Hat,Bandana Blue,20,1.0
+Hat,Bayc Hat Red,22,1.1
+Hat,Ww2 Pilot Helm,24,1.2
+Hat,Prussian Helmet,27,1.35
+Hat,Irish Boho,49,2.45
+Hat,Halo,71,3.55
+Hat,Bunny Ears,38,1.9
+Hat,Bayc Flipped Brim,50,2.5
+Hat,Army Hat,45,2.25
+Hat,Fisherman's Hat,56,2.8
+Hat,Safari,37,1.85
+Hat,Girl's Hair Short,28,1.4
+Hat,Party Hat 1,23,1.15
+Hat,Bowler,46,2.3
+Hat,Short Mohawk,68,3.4
+Hat,Sushi Chef Headband,28,1.4
+Hat,Vietnam Era Helmet,42,2.1
+Hat,Faux Hawk,31,1.55
+Hat,Laurel Wreath,18,0.9
+Hat,Girl's Hair Pink,22,1.1
+Hat,Spinner Hat,36,1.8
+Hat,Party Hat 2,21,1.05
+Hat,King's Crown,13,0.65
+Hat,Baby's Bonnet,33,1.65
+Earring,Silver Hoop,162,8.1
+Earring,Gold Stud,87,4.35
+Earring,Silver Stud,159,7.95
+Earring,Diamond Stud,49,2.45
+Earring,Gold Hoop,82,4.1
+Earring,Cross,31,1.55

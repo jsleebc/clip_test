@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmb73r16Gamywzfg5f9QhjzKTXCpbDHe6XKGgmufUVx6AV",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    }
+  ]
+}

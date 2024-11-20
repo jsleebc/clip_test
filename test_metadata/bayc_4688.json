@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmT2PeMocm1KnWpXjmMYZnbTRxpuUAMeTC6p3K165qGBPE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

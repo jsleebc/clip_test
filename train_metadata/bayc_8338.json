@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcudVXRjT5zhuKUPpoHs7XRoJ6CwqPaEBHjemN1EUcdVR",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    }
+  ]
+}

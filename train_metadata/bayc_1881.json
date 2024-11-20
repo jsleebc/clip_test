@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP4urD7zn9WaGSHC3yMzhpHUs6mQb41Dh9aECQfbiEZPh",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    }
+  ]
+}

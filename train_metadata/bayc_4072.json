@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRHH85BionAZnnQe3qf7pHSvDRs3DW256jP5k6yjKB3Le",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    }
+  ]
+}

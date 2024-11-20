@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVMkgFARhHaF7oLxgSSz5u4VzZfK35Lt9sG7zS1tdB4t8",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    }
+  ]
+}

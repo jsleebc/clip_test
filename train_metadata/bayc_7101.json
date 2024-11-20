@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmVAiFcaQ3zXJ5Fz5rdALiN8Xgo86vKQqn2xoxnchrjDWS",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    }
+  ]
+}

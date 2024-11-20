@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeL3NW2kaWSUwTVUqEyeedxbU2uTdbERBQvQW2etYMzke",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

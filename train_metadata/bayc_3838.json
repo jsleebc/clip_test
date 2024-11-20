@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYBbk1cdeNkJfJf6ffXkyqT2bjLga2Zu7pKReFFjvq1Va",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

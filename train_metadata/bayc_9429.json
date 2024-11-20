@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcZwosBL5Z2AjiL2VkK7UjebqXLToKrrjmumm8BgHkQBB",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

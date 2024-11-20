@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcsVzdg9ZM1ZkiW8eWzrweaMv2Pw96k2cKB6yNQSj8rAs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

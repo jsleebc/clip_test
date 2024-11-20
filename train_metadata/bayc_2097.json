@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmZNv9CfjxdfuVUxDt9nauHubAjbtCzsAnSHQEpd2e2fEC",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

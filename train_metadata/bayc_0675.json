@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmS64Cwc3Vcr35sN1RPPwyXs8gv44dzAQNTGdjasFqkRtS",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

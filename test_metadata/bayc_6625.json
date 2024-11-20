@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmRra41vS4eumwqRTurcyZkRef7yf98Rjzhsb22PrnsQ19",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    }
+  ]
+}

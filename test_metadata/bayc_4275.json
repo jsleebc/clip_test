@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQ8WfJfvs7dwmqJwx3NYX9iyvYdrtNV1DEUtJwH2Yu57R",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

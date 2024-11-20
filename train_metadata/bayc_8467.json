@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeGBaDZEyrX8fuVD1ERSPcw9UKN2ck9fjSCXJvPjRT1cv",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

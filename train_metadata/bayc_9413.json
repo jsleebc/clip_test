@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf8NM51Hy3wxmoBAF8s6EU4FUqHBobmRobwFT8GchcUJa",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

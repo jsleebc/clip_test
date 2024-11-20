@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXNmZugGbqZGSodeKLokeSmncykczqc9sos8N737G4Qdc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    }
+  ]
+}

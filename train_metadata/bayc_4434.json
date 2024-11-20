@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSJAf6JVaY1aMKWuTT9zNQXdxpABHWXLYnpSTiqHkMZ5z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    }
+  ]
+}

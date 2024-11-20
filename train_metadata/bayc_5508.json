@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVULaSLTZfCoSTVSkbx7Y2qU8V7ib3kMCfWYNXV9LxdZZ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmX2rgPjvbu1jecC5Wf2WQGEVvBjqKdosLcTtN89PGYuNc",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

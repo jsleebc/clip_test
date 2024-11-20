@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXhtpygYyc3DC1dHoK1opNcppPh7zW4z49NCEeirsC3tQ",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

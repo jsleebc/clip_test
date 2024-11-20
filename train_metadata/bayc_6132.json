@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTeMuCbXRK9ZLyeQE6B5GywioybsadnDd9htJi9Vg6ndF",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQnhoe8NCpCUsz3sQfonKB4YEjqx1Dq7hChveVC7uv86N",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcxD7X7xXff2NMzre1HBUNHqkBy3eZXMxChc7vB4worrb",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    }
+  ]
+}

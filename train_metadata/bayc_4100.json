@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdJUkvzrhJ7RJ3QTG7EfbrttFVphkjgRHpccVyWVSKNnZ",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    }
+  ]
+}

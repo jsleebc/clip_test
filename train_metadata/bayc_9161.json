@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmaSq9v4v9ByoXqwXE8zhh4EzxnMiC7J6eCH9shK6Ru2de",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    }
+  ]
+}

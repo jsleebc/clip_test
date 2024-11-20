@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPDFibn98gLqbEi59DZvb1Y4YZqjBXumxTZq7XQMpUjmj",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

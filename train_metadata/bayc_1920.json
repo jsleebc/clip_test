@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRXv2NTrYqnkxDLxNBuNHAFSmsWWTzBgjRE6YcfWBNrQ3",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

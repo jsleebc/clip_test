@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmdsvtxa7LrX5eWFAWWFoaPwPw3iW3uoCKBVRhr83N9MLf",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

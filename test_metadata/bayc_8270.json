@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmVkeCsFiFTMjDt9HCAAeiFwSw3TyaLbX1YzYhwquDaTm7",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

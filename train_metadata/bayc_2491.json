@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXEP8t3tZSsJKQNbYttN5imCVZxs6oSQc2d4xtH8EcHG5",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

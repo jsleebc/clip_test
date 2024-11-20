@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSyFomhKHS8u7PiF4JNF9DVNb4awiyzgMVSBPs2fnhsNQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pizza"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPLtCFRQ8rgLio1QLAbjWJHrjnu1sf569qtk5bX5BMpk6",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

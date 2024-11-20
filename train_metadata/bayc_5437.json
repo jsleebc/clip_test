@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVkFSQDWJdXdWjWwewuAHC967Luowva41AqAibWztbAB5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    }
+  ]
+}

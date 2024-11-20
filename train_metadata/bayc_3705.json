@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmeMBWWwbYbVnAwmiXFdXUwzvHH394JxAfjrGEfxuZ2PRH",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless Logo T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

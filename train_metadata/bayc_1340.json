@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXsPZcgRNcJFNK5buhgnLnpzJ8Gi9o79xSSNNS34QxSxU",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    }
+  ]
+}

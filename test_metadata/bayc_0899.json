@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmReCpYYsF2k6SP3y9D1kP9Dkrw9bXTuDGKHkxMcisiTwg",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    }
+  ]
+}

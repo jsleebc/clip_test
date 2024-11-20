@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcWidbMGScDP4PHYNp8zJjizA5UXiG7vJ5EmkpLmNsYsd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeqXsidB3zw6iVzQ8Nhdfz2jtq4tUGDYLbumX8ADypMUu",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

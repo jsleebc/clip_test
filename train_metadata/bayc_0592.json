@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfZpQP1m47P2V8cyTz54PmhHqTYPjXKMeBRcP18Xv4LMS",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

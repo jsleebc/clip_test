@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXgHhbB8rdQ6LCpE8iTcDtnShb12XCtoNxMZQRFK3tWrC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    }
+  ]
+}

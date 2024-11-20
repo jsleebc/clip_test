@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcLvsg1u6YRhWCxgGWScRzdVFz8f9EWiEdnFmx1d5h22W",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNa4QSJRG7UMKYyutf48xsGkw9YG7PHJpfiesPk7bunyE",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    }
+  ]
+}

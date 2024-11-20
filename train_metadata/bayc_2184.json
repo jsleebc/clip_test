@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY81eHxufgADqsh5BtJgqEUL7YyAnjFT4jPLoDfFhyFmJ",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

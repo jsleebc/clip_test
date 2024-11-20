@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSXNhpHMf5noP9ZsAfgFrHJ2PsEM2J3aHzcq21Qp8kfDM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    }
+  ]
+}

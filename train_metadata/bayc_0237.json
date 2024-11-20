@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUFMcsGc1yyx1XUihHQpvP4Yw2wAjjShNY8GtFcjBWubz",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

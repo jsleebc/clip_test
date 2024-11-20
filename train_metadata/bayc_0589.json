@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQAc2h7DL6Snn2ZE9fqcXe6BtqRdauWdC8BDybK1mkAZh",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    }
+  ]
+}

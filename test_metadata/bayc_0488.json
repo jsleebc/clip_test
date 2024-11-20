@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQU8LohLGTbG8KRUN57mk3c6bMdmRSMUVxv8T22WTjaaj",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

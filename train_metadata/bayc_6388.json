@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmS73ichxmrag4CKihWAn8dQQy6gQebLDY7e6PsArRus5D",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    }
+  ]
+}

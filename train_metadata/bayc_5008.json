@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPooKCjWLR3dCn2F7E2htjNXk5SStokNSURkFTZcBNgNJ",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    }
+  ]
+}

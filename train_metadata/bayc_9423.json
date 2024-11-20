@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbpnbMUYvEvs9ybePHTBuHx2SoPaJ6W7qgHL7KDJuPBet",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    }
+  ]
+}

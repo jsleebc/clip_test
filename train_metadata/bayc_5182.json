@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaCX2a3mYi1QGHeUMAT5H8r8GkH6iyjRiwHi9Hipras93",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

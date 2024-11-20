@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbwfXGwe9MBBAuUKwGiGM237r55PuxHfQwFQ7pRBGpDFw",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    }
+  ]
+}

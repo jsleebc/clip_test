@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb6nvKhNg4TwoRTdDfojH8fyuSXzCNCJLmANFB4wsUJf8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

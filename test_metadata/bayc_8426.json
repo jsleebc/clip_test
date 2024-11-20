@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPfzC5s2QuG3QHSkVc3Yk2wijPEZX2ZfbsRJ5DTWBKs5K",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    }
+  ]
+}

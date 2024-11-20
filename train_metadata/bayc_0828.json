@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZc42s5FZcWZLEPLR22pWgMVTinwskZbykV6qyEsvYgiE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    }
+  ]
+}

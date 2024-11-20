@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaQMGzSrZ5gut8SDzTHmoqWngDA3fGqDHHSSwAkHp5CQb",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    }
+  ]
+}

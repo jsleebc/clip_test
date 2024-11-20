@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmQELr3pRoQra3FxFMHchb2qe2cLZ2QwagRdogWAEsezzG",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

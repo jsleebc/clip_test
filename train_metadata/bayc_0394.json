@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qme2X7uqhma31pzTsBk535t511yMB4gzSukFRWR9LJ6AUM",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    }
+  ]
+}

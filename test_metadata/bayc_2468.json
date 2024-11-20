@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcWJcqjVESkMst8kmSFPsqTXUajx4pe4XVZSZAxKQWv2N",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    }
+  ]
+}

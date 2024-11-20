@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQsxRXfVxxC5k9Uo8U51QcBtiA6TNmHAenbPMar7vFZrt",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

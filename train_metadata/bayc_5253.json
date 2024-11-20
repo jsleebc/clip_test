@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQUxpAMzvFmEHuh1UxSZ6ZdEqd6ciWNZEzuFbDTAqBt2c",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

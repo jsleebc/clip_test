@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWT6kmShmu6KM4bh8fRfsekHWEN7XTuvWLYWrbnouoe7R",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    }
+  ]
+}

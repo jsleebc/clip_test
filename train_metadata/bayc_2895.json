@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmc9Vh8GmeZ9J1sZS6hv5NJbNop5otxhA7JeWN3azfwub8",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

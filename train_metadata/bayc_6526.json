@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcuYPWfuaQKzxZrtX3JMTqm5VZsM9GmZsPB8HqjY3FEH3",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

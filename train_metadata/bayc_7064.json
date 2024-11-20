@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQ849XVskXnNDWHPdx7z8ShHZsbJn6EuB55iZiLUPRKmm",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

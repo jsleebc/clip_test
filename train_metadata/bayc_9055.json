@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTHcV6mGxHGeeXCnYtV129eRiR8Exni4sT8dDikBWBgzY",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

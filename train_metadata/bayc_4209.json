@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbgdjxYoz4RyQX74jBZVe5SV4xvdN1mR1MnXRw7bSE4s3",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    }
+  ]
+}

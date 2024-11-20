@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmYycgnLBcBbkJ2aBoxa7RaVFVNuKYmXVjP5Q2k1CHre2a",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

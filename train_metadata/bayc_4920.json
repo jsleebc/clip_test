@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYjfFkB1hnvFTaCdV5aTd9s25xEeWA22PqVHgTihfn6os",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    }
+  ]
+}

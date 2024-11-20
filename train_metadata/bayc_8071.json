@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPAADJWoCqByMhMXNHTfwYySW7jDWBv5ikcuByNGv2UGz",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    }
+  ]
+}

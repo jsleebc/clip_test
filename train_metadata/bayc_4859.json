@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc3n6qDYT93cVsXM1zWJYAe7n59jJ65Tww5rTS1cgsgB5",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    }
+  ]
+}

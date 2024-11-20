@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNU53FeLzyR3BP8Ww4QkihcEb1P6E9pDrHPQ3oiJDFPq6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

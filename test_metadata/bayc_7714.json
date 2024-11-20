@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQMazYAvScRA4gBDeSw8JFeuACzk1bzyc16XDDGRmrszL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

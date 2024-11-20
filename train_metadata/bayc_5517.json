@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmdzPthFZXDqHT891nm8y5Rm4ZbnpLoaUXHCSNvDgQXmRa",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

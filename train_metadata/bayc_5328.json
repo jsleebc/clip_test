@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbCyhF56rMJ4qe2Z1n3DjR3vPxuU9tySB29i2gUuqsFFR",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

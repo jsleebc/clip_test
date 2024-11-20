@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmNxMq1Rw8dxijMqQNNQvtk7wZc5putFTnYfM7kVoNfs7u",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

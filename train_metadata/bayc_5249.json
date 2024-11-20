@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmbgxqePkiZZ9CZTj4aE3VRBs19VA19VSxbLxoJBHYv88P",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

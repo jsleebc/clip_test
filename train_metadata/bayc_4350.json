@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeHGZTFBq1xtz4W5cMMzWVppTTvGEv6rF4L1AcsTwr3qU",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    }
+  ]
+}

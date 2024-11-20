@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdqJgGgAqYJdbsbx1RiDxfrbiJVffn2n8WAmvc9GabMsL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    }
+  ]
+}

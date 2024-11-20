@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSMuDwvoLAhXdwkPLvHbQP8bYBBa1ikx2oQdaS1W3Qnhp",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

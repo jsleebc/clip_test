@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYDB3RNVfSZcnqR9fgTB2JPXFL2cvRHFsfYsxkHv5AeQZ",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

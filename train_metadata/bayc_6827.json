@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf6EdYEFuUfjYK2d7txx3N1n2SiiYBZd6DbJn6fxooqsf",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

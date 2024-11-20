@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUK9cmc74ZhXmEMoYeEDcxcmPAr2Ywc2iqBFipTP5z4rS",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    }
+  ]
+}

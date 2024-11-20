@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWvCjxMi5MntoUCRhNwEDSDBAaE9d1VwQYsx1j43mLPPF",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

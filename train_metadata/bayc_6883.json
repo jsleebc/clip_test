@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbUuyKoHYzbkULmWNVKPa7SsLfWjqD8CbB8GxHUMGiDEy",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

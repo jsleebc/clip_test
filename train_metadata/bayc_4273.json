@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmU5QDRcTRNspXTsTvD5HusiyK4NnezZKsjfQF41CKpfeh",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

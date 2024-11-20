@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUSwkrVuQ6quSUNog3GyRCAsJn38A9UjKaUkVSrny2wBz",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

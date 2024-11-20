@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWPPr7boHtdVeaQ3k5M2jiJbFoWr6VmEzsAb6wUnCWJwF",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    }
+  ]
+}

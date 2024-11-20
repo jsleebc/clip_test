@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmSaJiW2Y7SrX7yZy2DD1qySn36VZFD2F1NxAB2hsnya3Q",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

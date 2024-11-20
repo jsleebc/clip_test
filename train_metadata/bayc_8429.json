@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTbmGoyKjaD4B26ftoYcUyXqDGbw17pYQV1i98MiX29rY",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    }
+  ]
+}

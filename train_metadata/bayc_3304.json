@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPSuXqwPf1TDyNL4ZHW7UxduJBD6P1Nr66sBxEEWGFmhY",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    }
+  ]
+}

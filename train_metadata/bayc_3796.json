@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmRuGQB2QBLabHqkBvSUzNhEtAM7UeSEA1EfLMjzdQ1DRg",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    }
+  ]
+}

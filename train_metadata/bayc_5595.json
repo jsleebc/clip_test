@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPQPmYrBD86JKvPjnCE4c6HRPjEWMCLXNCsVercy5Q7Bh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

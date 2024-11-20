@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRAV9xSsQFqrdANdUxYeMqwbYV9q45NMrM8ZKkmbrhqbs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    }
+  ]
+}

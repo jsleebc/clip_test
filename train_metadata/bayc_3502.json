@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmVncYcRhNK4pu99nm43mVNZruJMro6HP3xvqLCGkBWjCw",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    }
+  ]
+}

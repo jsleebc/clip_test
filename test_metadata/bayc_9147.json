@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWzZGuPLhsQpDmURX7dQbnfqTw9V2vtL7U3pLKUzzGPrn",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    }
+  ]
+}

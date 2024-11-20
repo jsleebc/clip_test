@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXLrk8DbaBpJ3Y9srdmAAc66Gd3zdCPAP8xLoviaJC4Nn",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

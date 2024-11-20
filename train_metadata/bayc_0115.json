@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTW5e5nGSqvrGeo5ABwsYvPxtuPbC5zmL4GLsSYDWr9na",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNbBp99R3tAg3en5U2YuL6PMSa3cjiwwYfZkHN8P1kiwv",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

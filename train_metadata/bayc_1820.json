@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY6LrevoXX7JT8iuzoHYRU5CvBwZGtstBKYpqDTpHgsXs",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

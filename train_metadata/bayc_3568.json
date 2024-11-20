@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUeyCFHzFoGgfXFyn4kg9cWZTm3KzGfZapDuBwk7Y9vXy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

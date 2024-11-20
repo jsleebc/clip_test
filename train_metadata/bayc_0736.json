@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeUu5GWkdAM1ritvzzoAqYpuPJd8PFFZYcXy7fLTgRYmH",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

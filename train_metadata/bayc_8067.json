@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNbwoCy79HKUyhQBMfEbhfipyohTsbKmfQePSwQM6Rsc6",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

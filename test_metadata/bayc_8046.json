@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXgGtriWhg6t7XVGVQ6P6c6PUd88W5ar3BRsWPuYAfDLL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

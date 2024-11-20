@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSjG9Rn8BzBqDY7vpdnFTXNp13GaYp4Ntk5FJB8qFr3cg",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZocbKQ2uHt9Z1Mi9k4wtV3Y7X3NgrLM9jT4bpL14MYpB",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    }
+  ]
+}

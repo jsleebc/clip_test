@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXYe6TpHvCxV4vHAkfWSnFduF1UX2KV9Nq2dbFMC5hxeG",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

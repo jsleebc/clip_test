@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSy8Vaw3EqYsjUEcVNT2V7ajp67ysFSdXFrC8mJChhfM4",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    }
+  ]
+}

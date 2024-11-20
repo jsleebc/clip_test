@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf6eLbpEWqkr6ZF5hdK8kFEBgU6q34tj2SyNjivANBmMY",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

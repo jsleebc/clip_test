@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWTBE2wM6zp6ctMzeo3DpEACW8v15kfh4Eqe2pZztJgeS",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

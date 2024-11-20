@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSVGB8nMf7Rn1fMZcQgRTen3FSWUeigZxjyx6qNhQzBXe",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

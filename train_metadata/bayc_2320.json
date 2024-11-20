@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP989ocgKSGpKx1JAZAhLnf6LQpfqvofz7uvhvU4JZQvB",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    }
+  ]
+}

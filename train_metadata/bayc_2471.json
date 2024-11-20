@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbKqaY1HM8D8KhFRECh5Sh8ch6zmtdCYr2WroAUJQr7Wc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPESPREQJw8WkDvoDSFY5NjaymrUyiAMtCYCjBzSTTLDC",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

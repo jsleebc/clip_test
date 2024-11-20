@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXQzvso2W61M86f5MBjDQo4iJedVpQ1XA1eVRLBBr2R1J",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

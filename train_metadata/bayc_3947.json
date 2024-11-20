@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmYZkxeKm7t4usNahrWQ36WCtBm52G5h9nNAf3vGyyUYMz",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

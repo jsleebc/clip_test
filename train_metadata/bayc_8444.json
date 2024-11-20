@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWp3n7P9G751dBFVVb3RjTvacM7y3bYazPuv94AtzSRwD",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

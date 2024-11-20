@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfAqWx3R2CTNsK7uaimmFKPbjnvJfBXpYvSq9Zfz2XaVB",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    }
+  ]
+}

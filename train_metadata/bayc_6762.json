@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmShg9u2frWyysPh28skc3gFP5EeCfocwTM6fPXhx7qU2A",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUVyeKumyr1u6QNitzzixGgJSwGGmJ3PhjYPhAgaRANuF",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

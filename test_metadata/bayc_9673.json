@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmPrLfYUUCnevuT5ppPgUyBfXgWGyHJF5xEVkjXn6XBPyg",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

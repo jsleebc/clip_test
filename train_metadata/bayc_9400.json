@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmdwLheJDM6o72T5t2oTB1uZcp4aLga3PekkFJjQUmLBaX",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

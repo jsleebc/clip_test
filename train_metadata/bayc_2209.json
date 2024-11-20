@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQNLiDUnvN9o7xWgSLgKGqTFy6jFmZygXvDTeeRBBAYV5",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmcidGC1Trgb653fti1mKjGDHxnSxhHEpYAngxHYsbH1ck",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

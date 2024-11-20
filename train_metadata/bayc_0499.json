@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmR71LburVfp3QNWdY3adu81BqCwXNmwH6YKStgvo2v6FM",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

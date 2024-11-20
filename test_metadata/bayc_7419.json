@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYtsJwda5WWKTisLR922Fgz9QZcv67vkigiPJjvpVhPih",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

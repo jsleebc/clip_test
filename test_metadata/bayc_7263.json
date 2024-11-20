@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfCJNtiLYRUHM2MVuA5t2pvW61jjd4PudLSmbU55BbM2G",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    }
+  ]
+}

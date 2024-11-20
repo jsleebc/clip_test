@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmQj8gPAxHtDWQRczDTzJKkZipxA37XyPEnRvBFFwmK7GW",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

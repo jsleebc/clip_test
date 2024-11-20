@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPvEX2j29MACh6JyKRq9HVypihrk7sRLhJcHL54qsDnTT",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVg4sAS6hvhKrr3SYRicrnmoGXXF3XQh6SZ3Gr67mQKzg",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

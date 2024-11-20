@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYKYSCo55UPGpRjWWfwLouvUsHeCaf6PhjxtuXnHY9XRD",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    }
+  ]
+}

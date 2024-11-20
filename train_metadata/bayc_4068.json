@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWaffkAhNJwC4t3XRssUxEKJ7Qctcc44vhW6QE9ie8FuZ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

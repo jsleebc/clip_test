@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXk8tRoYGjZR4UN3a7MsDJugCC8Sq4g5mNJVcKJKjetjx",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    }
+  ]
+}

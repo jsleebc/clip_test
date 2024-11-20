@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSLqCwWRrfyQ7rnkBrWAbS5kxMjTS375nwSHxf5JcKxSF",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

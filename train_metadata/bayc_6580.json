@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcEKwUDt1saUDFcZrQdupcY6hym259W2fzhbMNHMisbke",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    }
+  ]
+}

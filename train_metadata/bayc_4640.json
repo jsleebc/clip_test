@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfCHbDDwknafFSjmBD2tLFawYj7CBfcFvBPtk3kTtpkj9",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

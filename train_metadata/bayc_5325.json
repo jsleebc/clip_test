@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTBTBFLDavRatXnKr4LuL9aXtVYHmkr34F6r741mszyDu",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmQ2ZeBzotfyHhwZr3H4jjF3JjVw1tsqZbJLfehbwaZ4jp",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    }
+  ]
+}

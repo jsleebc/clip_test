@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZi5m4oYYkZumJd1anmNmJMeJqV3Gvcz6kcgZ1J3dQo1f",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

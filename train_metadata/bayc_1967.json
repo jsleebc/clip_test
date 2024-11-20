@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaZ5rqnMoQHxrjBGFzDaM8GMiTEGftaMLsVc29zRp5ckq",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

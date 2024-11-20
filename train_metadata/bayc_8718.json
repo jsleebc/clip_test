@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeC9JsiH22aFG5y4mAE5fyu8xQ1k3pxtB6iQa3icA7Z6u",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

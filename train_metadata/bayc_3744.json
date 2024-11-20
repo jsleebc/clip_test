@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmX5f3FBnLycRX9JFWHnbJo6ouE76HwRsDFuFit9SC9ULu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    }
+  ]
+}

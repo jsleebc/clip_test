@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmZbEQUnJenVCNNcWv5952abTfh1BhqsUxg57hzqbBbkPH",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    }
+  ]
+}

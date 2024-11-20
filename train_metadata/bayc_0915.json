@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWhBxq47iqhutpcmAdCyxxEZrAxt1dLRNZuyAJ2R4pZZY",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

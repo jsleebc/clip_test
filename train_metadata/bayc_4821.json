@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYeQuG39iA4kZrmGak5mvSqzjsuDNgesA6ZdvH5uFkzBR",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXN2D3H6ApXYv5KXizWqZRLtG7oxjsWs2bcb6GBXKhuSt",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    }
+  ]
+}

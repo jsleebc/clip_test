@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmStURBbBCxaYfEQwnNd9TyYCtviTXwC3T7YmhGZ6D6Zsv",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT65pPdkPJbMFqCNeLu2k1zQ4QBXJD5TnRsv7gnvxudyK",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

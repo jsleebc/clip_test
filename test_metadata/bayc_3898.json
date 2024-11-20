@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVUWTi9LpbxjRDbgKRVwN98tE33MnVR1UiNzBDg8anUCT",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

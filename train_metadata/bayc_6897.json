@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeQQPrTB9m6pQL6zzzhGTuJ5HexB6SMA8mSpDX97dQe88",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

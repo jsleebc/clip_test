@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZNwvq6WvFwXezyNES241h1EudWECTjcbLr2tC1NPUAqK",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

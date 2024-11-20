@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc7BUCPRxqAQreymZSVbLZ8N3oFP4nve9wr9TeWVsw6Zc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

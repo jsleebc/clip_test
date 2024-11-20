@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmabt5dCytZe8RBgeBHFdSGyfjB5DAYXAg5gAarGYrSb3w",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQ8Zw6PBG9YXMd8CNvtL4ZPvFAobqcVezR4v7kzpocTxT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    }
+  ]
+}

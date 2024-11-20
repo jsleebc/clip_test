@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRrc4u3dNjg524NtcanhRZ8WHdQEx2g91t5DUcKJF1rk3",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

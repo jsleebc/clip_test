@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmR3PTTb8GyiqbyxzUyGgx1qkPk7aDD3f8WRWqaaChwrXx",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    }
+  ]
+}

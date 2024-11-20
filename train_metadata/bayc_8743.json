@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfHz1F2MLrLdYZ1HZzZoFyzNtmERQTAeHFjmkiYkqPDLb",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmQijrpSGN9z11QsbcMnzZkdc4UF4gWEwFA4khcqNpmt6o",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmVbGxGqrbjUK7qjacEUPmvaB1phYCvwfFY6P8kV4R4XFi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    }
+  ]
+}

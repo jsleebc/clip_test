@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUH3jCKBiwxPyv1WetcacpTwq9fkhWagYATn2umZm8YYD",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

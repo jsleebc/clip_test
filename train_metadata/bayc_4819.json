@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY7Vrb1Wio2wvr4CbdvQTyP1CFRiXEDvMQEY1i1yfdQ9Y",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

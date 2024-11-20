@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXqywkJqH56JoSZWuYoiBmPBXUm2hko97UvRrHpQuf5yZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXYgpyjH5hruwN16wuiGrGP4YKkELdyzH2C5PJYvAsokL",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    }
+  ]
+}

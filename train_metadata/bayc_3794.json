@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZGooP8CLGJzDM1iabAB2sro68Q3zPR8Zf4K7kCCBZFrf",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    }
+  ]
+}

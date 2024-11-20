@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmd8cM7Ae9N1NSVYhS7RJmN17NK9u41aXomBpv3Wwzd6AL",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    }
+  ]
+}

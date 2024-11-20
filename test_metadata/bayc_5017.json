@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmd5LTzDUWCPNJ2mcUhmcqC2s9b5E8eXuGekSAXHHUQq9P",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

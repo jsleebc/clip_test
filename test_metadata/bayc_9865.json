@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbqhABuQj2AxzxHnqQUn87DjygpxF86bP4BvxbcQk8Pyh",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

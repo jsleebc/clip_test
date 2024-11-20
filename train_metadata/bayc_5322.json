@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmTjPRn58NnJbhS9HvS4ZAMWMB2MyoEVbeSA8dipQcGV5N",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

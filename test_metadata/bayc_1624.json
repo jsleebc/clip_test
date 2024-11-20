@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSEMVUa1KAUTzJzrC4UzVLCCS7jmQMpkXrnUKdVTuJ3f4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

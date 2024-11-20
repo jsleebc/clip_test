@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVqh4XPDgaY8WA9G1N5uCorbXkHuFvxBo95PkKMhPKBnw",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

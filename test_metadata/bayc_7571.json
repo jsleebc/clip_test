@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmX5YAQNyUShk4YfCzRa7Ze6doeTj7BBEGLcTZHWMEZBoJ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

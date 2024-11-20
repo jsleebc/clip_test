@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSGmMwXdBXhdot38pSNg83myPjBNeDxF4vHkvLznm9y2Z",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaTw6zbxCsqMpBbfcPobj2khZgV2sQuy74ZRL8zXCiGLC",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

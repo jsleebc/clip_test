@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmTVqFQqwZmAWTWNMLiZS1ERm2G5pPmpgfhKcnyswgGLMY",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXtTzeKxd7pvHoAnmSd8co89b64jtADkgrVR3signhYUX",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    }
+  ]
+}

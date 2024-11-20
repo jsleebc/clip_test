@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfBcthf69zr1yXnDdfoqFRxpQhW7iBs3QhP4nJHMsq9M5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

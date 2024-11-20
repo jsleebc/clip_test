@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSZmaSsjSTBLTziM2PgJQD3jzNnLg7XnfAZNDio4syJTi",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    }
+  ]
+}

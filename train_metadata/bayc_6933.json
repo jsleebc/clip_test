@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb3CeG69oWMs9LX1aDFsMyWJkGaxC1XSpURZJUN92r4PQ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    }
+  ]
+}

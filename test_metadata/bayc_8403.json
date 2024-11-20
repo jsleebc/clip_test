@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWM8zjVXQbmnZCVGpV7DfZZCwWuNpTxo2abr8DZHvg6gC",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    }
+  ]
+}

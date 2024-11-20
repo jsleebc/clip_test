@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmQY538Grmfs8xe3yLyGwqH2KwJJCRaWM7xq3YkHVMYsSB",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    }
+  ]
+}

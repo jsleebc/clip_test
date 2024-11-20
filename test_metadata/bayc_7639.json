@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfRAVXD37yK6GWHz8g9VgifjZwztc7oaQftmSpxiTyST6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRdKbNJP3bMvQiHfiE2LPfWgWkkWGCq28tfaAYdR65muT",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

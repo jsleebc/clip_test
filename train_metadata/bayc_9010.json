@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWpBHAkL23ZEgB4DffNnm6RP1GdfH4zZe91PodgynV9c1",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

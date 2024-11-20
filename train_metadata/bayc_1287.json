@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPGf5b2H5MYWSXz5doQcCcC3drCbsF6Aozbn3KnCKbKha",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

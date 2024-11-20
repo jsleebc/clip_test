@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNsAN5YhMfygzqrHwHu5Cd7eNpQP6jG3Ec6w8s3hsBPhd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    }
+  ]
+}

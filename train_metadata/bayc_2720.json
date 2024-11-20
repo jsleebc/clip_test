@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRbgw8tDf32WfAvSikFrJN9yrnps5uSjPacqtYChzD3MN",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    }
+  ]
+}

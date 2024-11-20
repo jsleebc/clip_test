@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYt5B998yVFCPXNQsuBvqz1ffLQMzW8YhWZrANtA5KyLY",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

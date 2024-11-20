@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbFuUnjVYmfGaVVRkXFzKpCXBPHKWa4vx8xEz5gFSzW5D",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

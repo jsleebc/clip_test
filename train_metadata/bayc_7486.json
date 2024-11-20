@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRmbTFZaSGzpvVCyQRdnobw94nQ4XenWoZu4cPQR3myoT",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

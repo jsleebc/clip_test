@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVHbQRGDYBn1V1Vf6xs2kXaaLjX6YUzNKmprNKSqxnNeR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    }
+  ]
+}

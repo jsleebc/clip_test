@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWvu9gWEQssmHpgbj1oQNpbiABzfTaFqYJoTuwzGFK66z",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

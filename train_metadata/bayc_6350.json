@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVsx1jrQkmft58QKRYgRZyS2FYDcJ18FpfgLNiZmn5rFZ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

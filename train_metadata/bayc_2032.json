@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmR7sfr89k6PyYBVFbcCqkjYxwKGd55ffKJR6SfB21gtiA",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

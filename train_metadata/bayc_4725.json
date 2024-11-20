@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZXQDQS25KNAa5ebvWBVZ8k4QUJBiHG6s24vFZgLuMcGe",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

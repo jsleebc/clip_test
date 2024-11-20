@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYn6hrsv2hY5quF7DvX7UHash3hWB5f39TiB2PkCwEMh1",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    }
+  ]
+}

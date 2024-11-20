@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSiLPwGzzsRcggRsTwLS6i2cBfNmmTZY322MaTzsyVi1W",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

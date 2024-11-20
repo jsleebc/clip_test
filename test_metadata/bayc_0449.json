@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmV4PHuWterMcYGRcVK1KWceEch3HBRUgSmovsGXjLDocW",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    }
+  ]
+}

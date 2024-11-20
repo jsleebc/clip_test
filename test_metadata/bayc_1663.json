@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZKwSHAKS3T7fQLCK1JeoZrjrVwCRKKsiNH7G8FwyRC25",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    }
+  ]
+}

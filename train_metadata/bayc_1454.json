@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVZ1cCtKRLqzdNBtDnZWosw7FsuMacgp7sab6oWCLMsEC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    }
+  ]
+}

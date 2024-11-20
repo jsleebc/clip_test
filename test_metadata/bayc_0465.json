@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdSJrUFWswjyxfUjtuX35W2CVnXPWWig91UkRgxc8KysZ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

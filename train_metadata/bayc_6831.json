@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPSPL1ygJ55z96xZURN6bBaLKiowrTKXkqX9vW2kLYKWY",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

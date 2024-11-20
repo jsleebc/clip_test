@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUXDd9ALWwAc24YGi1QN9yxCC4GqxY7xaMRitdR2jquaT",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

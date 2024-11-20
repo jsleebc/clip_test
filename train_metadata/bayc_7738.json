@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVPQsXcrH6e9kcfYtkBNFKaRLxVNPhK8hTAbB7SoYxZdK",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

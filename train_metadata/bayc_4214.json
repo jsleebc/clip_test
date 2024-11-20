@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWpMTdusAYdYRR5UUgjAGYbDdc9GoAi7AnXLVWvY8ddqS",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfB3F8HF6eo47CYywphWyvRAoPKkEsqSbC1cDLXPvgrSm",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

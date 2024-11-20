@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP4XPPqT3oEwZ3Va1ZqCCEBspShRG88CSLhR9umyZZDUv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

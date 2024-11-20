@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT3FuLDTzJFAL94NsNzc7AnjhRoj4unBb4EsZrQF548sv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

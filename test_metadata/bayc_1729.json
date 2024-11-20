@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWED8fdherfPhjVmPiwfGRvM6hjA7NkUyeDoNwgXdbWZt",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

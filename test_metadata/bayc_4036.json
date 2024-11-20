@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmd5CoiuH2mKyNiKeHApMV12ZSL8Q8xVhndBw9VCtwjueh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfWv96a6PaopuFXzajTd1R9xdVVVVdSZ59PA3sk9q9L4J",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

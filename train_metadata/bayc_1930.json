@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmd2h6H2Wea6wbyp29TFkLewLFWKRZpQDADvbwxEJiyqNC",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

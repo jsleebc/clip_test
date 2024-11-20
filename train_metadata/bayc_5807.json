@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQbjxYhR9u8QdhnQ3r7e4Y8RvirBd3p3SW5U5KE3HULXQ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

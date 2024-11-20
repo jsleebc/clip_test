@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRaZJ1ywhveQWoKw2LcUA1rC8J1bzm93gicASQtUAuuL6",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    }
+  ]
+}

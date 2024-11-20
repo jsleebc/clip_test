@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmabBD424eac2WqxS9SJAkwJhbGPhg7dR7HUhaExBFVPrk",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    }
+  ]
+}

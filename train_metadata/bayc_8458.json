@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQELvZftEpxPxqhiFmKZP66dAzY5LGtBrUC9m5sT9kzVC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigar"
+    }
+  ]
+}

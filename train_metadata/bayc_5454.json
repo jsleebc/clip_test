@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWqXEG4UFfJQHhQPhW6hGzA1Jup3sJyYSP1YvYPUPgN7K",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    }
+  ]
+}

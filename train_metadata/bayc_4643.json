@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcSYVhuFNgRHRvHe3CJtJzi5nbbF6efj6iEMYRL4W9bFV",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    }
+  ]
+}

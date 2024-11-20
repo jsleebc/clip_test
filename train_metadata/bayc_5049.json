@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWVuBYuXDPVhJae3o1mTM8KaatWTgLb3cu1BJsFu1hrKz",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    }
+  ]
+}

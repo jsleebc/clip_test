@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVtYmpWDovDHkSfNYfA8oJTX6h7eUBRZinwZ2YyQQz4uY",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

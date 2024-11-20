@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNPb3vmW2QBY81x9rzbnGP24fcVX3Yixujf9GW653uAJW",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    }
+  ]
+}

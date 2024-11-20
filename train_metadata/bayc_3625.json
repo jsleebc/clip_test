@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmd4KFMaTdDKL6xxssBGpQBDyB6qiYKczKsXUTyci6jbNa",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    }
+  ]
+}

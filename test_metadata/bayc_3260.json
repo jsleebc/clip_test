@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf8eLwRkyHKa46jCsyVdXeEwhjivCRUU9gQdn52fvgJvn",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    }
+  ]
+}

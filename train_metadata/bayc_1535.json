@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmX5bJDuW9J16sp5oGxraSQfCfiZ9cHUnStbih2eTmLwSh",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    }
+  ]
+}

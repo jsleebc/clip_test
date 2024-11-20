@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmekXNGCi78PmeXuhw6CWkVWydbHEMdugGJcA6nktCiRcc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    }
+  ]
+}

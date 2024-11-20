@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmYyyTe9XGqFp52HmMZaLtTFqqwxqyZngUw6iZQoMvxYSi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    }
+  ]
+}

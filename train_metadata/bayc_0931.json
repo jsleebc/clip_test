@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmcynbiasmpc3rjjLYKd3ff8spySK3erhk7cffXbhKbJit",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

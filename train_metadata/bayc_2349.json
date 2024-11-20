@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZbBKjEXDuH7tDEMrgnymwQjAviD7wAeGD2g8pw7bfFmR",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

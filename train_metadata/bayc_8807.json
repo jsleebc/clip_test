@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQWGBSvRSsErQpU2JQos64mG9cThpYijZMHFjvmZ4YPtY",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

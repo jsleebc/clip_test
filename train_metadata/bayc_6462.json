@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXuV79SWbnBvFuHsESJRWL2JVMLbwN6xRPm71VBdBp63H",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    }
+  ]
+}

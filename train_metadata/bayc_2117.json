@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYLN9gfw39qoiQj6A1mBqHwAFfGH697cqg3rkF2QBMzpz",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

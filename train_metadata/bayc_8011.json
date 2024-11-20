@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRM5sy1k4xJwNs3Q3Dfa4cpSTY8zZmxr3ooG63UnkSzEH",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

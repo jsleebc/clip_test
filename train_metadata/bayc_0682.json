@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmZ2jMYm1F1S7FJCpCgY7h5sY55H5MCEEqKp2VRzFM5wLn",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

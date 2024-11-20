@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdGCp5geEyL1hMCTmubnz4fSmxU3NqjfsGoMUUUXvUkgz",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Party horn"
+    }
+  ]
+}

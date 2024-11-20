@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVY1qJwaUSig1XGWHTjL1bZD2y2jWKRUg6V1HoCYkXtTH",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    }
+  ]
+}

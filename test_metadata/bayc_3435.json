@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRfpTWjF2XDN7wwJjejHjcEarjd11hzq6rjRV29faf4DA",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    }
+  ]
+}

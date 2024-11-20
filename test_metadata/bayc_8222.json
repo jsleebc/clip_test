@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWVK5S4tvKu2cBwPzMsPpC9omiF9DTqAh1KmwNTE8ziZF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    }
+  ]
+}

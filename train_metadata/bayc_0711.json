@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTdHXQH7tkg8bMzNms1oHtojM5BaoNQ4jLtQQ9qiNVudb",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

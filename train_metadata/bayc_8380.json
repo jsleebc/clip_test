@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXMD5E5A7TzEw6PpHjkDLv8yNoSizTtxUwy33QURvMwyc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmPPj3ybHtAQZA2wLH3mU8Ki3N9xrZwLpd8VkLd9Lpy4pk",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmNPhKKnyf8AmSz4gZj3ZYZmS9kkwC7UKN5ddKyz2Yi4YC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

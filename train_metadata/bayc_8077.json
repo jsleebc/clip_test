@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWqHxtWM6GmH6paosmseLiyxifznZEXx1fESdrbSUR8Bo",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    }
+  ]
+}

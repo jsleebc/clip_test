@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXVMC5keUfe74eHnFDihMLy6u6B476MNQVw4D5fqvk2SY",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    }
+  ]
+}

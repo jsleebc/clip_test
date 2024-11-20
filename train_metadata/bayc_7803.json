@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcRKLprptUzGRfsSFRK4dWwGzE1q5V7u2p1BZWBCjMxK7",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    }
+  ]
+}

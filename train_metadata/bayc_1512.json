@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWmNuT68mMUkZNHGBrVzTuJChGMYiMELigY1uw7qUd7d2",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

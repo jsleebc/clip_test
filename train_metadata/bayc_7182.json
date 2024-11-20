@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmTtQGUPC1DiD77dekGAbeoxRe2n5qMmhi65JFEpi2bbh5",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    }
+  ]
+}

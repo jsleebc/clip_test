@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUnvVQpp4oNZAEZYUu68F2CQDkYYmM98wdAdpoGL58DwJ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

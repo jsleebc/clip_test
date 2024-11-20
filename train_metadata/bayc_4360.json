@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSCrvGzibxtox7aWqVeBRXNHiVj21widyhty6YNKxZPSd",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYfVFV7Kva4m1viYryxpxMxZDEJTvxbUnnmi5ug1UtRfP",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    }
+  ]
+}

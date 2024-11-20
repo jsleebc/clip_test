@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSATJN3pu52gcjtu2ApucY2dju8aa9NxEBvXg1aYTDqsr",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

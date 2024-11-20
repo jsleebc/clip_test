@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXdfHSwMHBAdAX8ZmAfXHQZRnB7tWeZMKHUtQeHvGSj7p",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    }
+  ]
+}

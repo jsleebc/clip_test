@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZJtaSdEgNU1o4N7qUSy1raamFv5ByA7QNpSd3gPnVjn1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    }
+  ]
+}

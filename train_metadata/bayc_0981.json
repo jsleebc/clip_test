@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSrDhvM2jiUgKC18v9XifdNKfed1jJiZ6ZLCwfZET5jw5",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

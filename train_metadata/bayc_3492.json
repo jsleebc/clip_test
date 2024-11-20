@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYQyLEwUk3fMcHZhsnefgjRq7MNJCt5wHvKWEnw7ohsv3",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

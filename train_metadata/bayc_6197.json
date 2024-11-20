@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmU4gsowrnyVgmQsEBz3zj7RZ1aVvr4qYMnJ9RF5QnYW28",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

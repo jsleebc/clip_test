@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZhGAKtATMzTwBSRnr1kRV8Pwp5huFj9JFXQMJdmRG25s",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    }
+  ]
+}

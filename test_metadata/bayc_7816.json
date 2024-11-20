@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQx5DZgo1auUw7zJcBmBicW3MoFwHvhC22eEpRr5ZMQyY",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless Logo T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    }
+  ]
+}

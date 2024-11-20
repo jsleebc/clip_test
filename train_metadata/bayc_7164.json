@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmXWgiB9ju9NZMz4vC3nJbWpFjcWQyYqjdZ52N2qeyKvxs",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

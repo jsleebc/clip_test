@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXaHTtbXnqZix5eSpd3pi9UobGoixyWGuuqZ2pzjnnVB2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

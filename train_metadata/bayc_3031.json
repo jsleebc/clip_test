@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qma4u9jT5hcerHAVpTmDJsM2ukKUu8HKHcd6v4bH37VtDz",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

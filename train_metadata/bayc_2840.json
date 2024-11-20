@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmfJuVsnGNoM8MmQDEVFA7zXop83BdpVTNfz5SJ9sfmWJG",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmR1djZW4cxgux3an1RtZW1HBmyWzuhvvghuKLBYmPKncY",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    }
+  ]
+}

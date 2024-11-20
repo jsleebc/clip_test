@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPAJSoAYAfj7dLYctLQBPK7HgCRGZdbKhe8yWyBzEHB63",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYNLLohDsJLR9SnrYfRqz8egwWAHU8k4obP9xQHYtioAm",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

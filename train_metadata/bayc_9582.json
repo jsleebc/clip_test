@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmS4wrgKGHKtJAt3rgjuH3vKvC5CFLHoQHXxFc179fFyZN",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

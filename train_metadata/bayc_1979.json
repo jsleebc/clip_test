@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc32RhvBU6oqarEno9v4qwnDHdfR6dd6n1fBuwFc6xzED",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    }
+  ]
+}

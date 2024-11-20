@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcPHsxqTexmASFte5NARPNyBwkvLh7ZZPgHwZaH39ycwc",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    }
+  ]
+}

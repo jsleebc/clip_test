@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdesuZytiXW3434RSTCZaiQJnsMfGKMyQCKHpRb2vyJr3",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcPwT52Zb6oNBgEvzGiDicEMG2h7GxxLcyGQRabK6YbCZ",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    }
+  ]
+}

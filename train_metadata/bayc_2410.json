@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZ5mQaHaifzQGMXgr1ZN5PXqKcnR7MJ9EYf994ebnL22d",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    }
+  ]
+}

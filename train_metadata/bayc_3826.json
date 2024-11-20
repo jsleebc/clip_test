@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaBYYdpUsy65ukGYidFtUQviP9cYTf886f6waABvqwmxW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPdxGn9g8VLFpUHTt43m3MMC8XvaYNXMkCcweNxBv7wZD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    }
+  ]
+}

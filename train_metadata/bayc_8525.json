@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXN63CorBpTvvincg2rfGDNvRs72rxdLkQPxnNvdthWtX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    }
+  ]
+}

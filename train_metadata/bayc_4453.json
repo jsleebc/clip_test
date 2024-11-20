@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTbvsSNKnSGjZVyLs9FWvZE2k1U8GkB4AuMB5Pu2jHsX1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    }
+  ]
+}

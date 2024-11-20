@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmW6oDAHAtqrx6qckyNSKzvpUAtf6A9dXGzFvebZvhEixc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    }
+  ]
+}

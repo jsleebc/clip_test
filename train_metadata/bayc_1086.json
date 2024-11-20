@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaBHSAW6u1Y8uYWnZSYkKpJrYE3cT37nqRfR46KE9XLy6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRXMxAiY73XhW2PHpCZNBJ1Bgm4uEBYhCeLfahfVN9uFG",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVT8qF2kqFhrGDfrPYs9W8oU5hV9JsFaZKGhiN8FvaMuu",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    }
+  ]
+}

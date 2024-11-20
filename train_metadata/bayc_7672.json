@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVZrggavG9vP4pqsVGK3bWaLonHRHCGecDqSQHpeJ5Pzp",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    }
+  ]
+}

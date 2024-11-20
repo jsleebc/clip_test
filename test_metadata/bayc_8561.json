@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQrAJRwsdHNzrPfcaRcpsrYRyjarYzrioDGnGyY2HNrAn",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    }
+  ]
+}

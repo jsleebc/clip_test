@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP33cqZCkw6o9bVaGULJ9cy9By3PLi2d9LFS39Ff4twzT",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    }
+  ]
+}

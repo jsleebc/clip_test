@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUShti1kvXK8ijTeX4iEm5anEppjGVnCWbe9MQjKJpS6Z",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

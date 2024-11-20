@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmba1kQXtehaPe3Qos71yyMu2dNPJkBNAT649Fm3u1NXwU",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    }
+  ]
+}

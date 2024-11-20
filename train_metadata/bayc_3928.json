@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXfHygiga7F5efwwAJeNghVLCNCXmiVB1457wSG9BwJG4",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    }
+  ]
+}

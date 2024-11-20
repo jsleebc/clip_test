@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTLL1rurEoUgyB8jm1FZo5h7xzhALsVARVDpqkw7ZLQ91",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

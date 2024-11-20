@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPhmFm5qSAEfq8rPp2hndPiNyYnJEDqz9CmaQsqKh2qfu",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

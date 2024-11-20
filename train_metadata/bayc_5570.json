@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbUHffGEQqELfn7pTNoQF3HixiELt66rCsRdBeuPTBsks",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

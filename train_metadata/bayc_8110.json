@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY57oKckWqW9xJHTAvvHeUKJg5v8Dr7an8ppUG4AyGKzh",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    }
+  ]
+}

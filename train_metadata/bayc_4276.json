@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNYH8T9bpK3Se49t35UZrqajfwZxUuUqkbXr4ZKCqgnuU",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    }
+  ]
+}

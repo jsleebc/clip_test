@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaqjNA6YJEmMcc9gjS3juREH11GxCsVUooZPZuYnNejKa",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    }
+  ]
+}

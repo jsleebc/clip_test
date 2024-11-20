@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmW4V2Macsrnne2mjqFGChWjWZAmwdeaqKrojRF7E8b86W",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    }
+  ]
+}

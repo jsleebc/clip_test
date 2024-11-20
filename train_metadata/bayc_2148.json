@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaUxy2Sbwzd2GyuYW5GHeSTCci8czMR2TArz9dCK9FFry",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

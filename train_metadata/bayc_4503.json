@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmbuptZcYxNZ5EvdYH3iPkm1vyLfe4sydkvuRXGbNw3fEX",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

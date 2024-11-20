@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaQMD2qCLSbyxrUXV96b2dbADED7zk5wHWhMsQHddnqqs",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    }
+  ]
+}

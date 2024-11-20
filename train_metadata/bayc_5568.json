@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTt8dCwPgqNFE5hCLnEY6CvCyssJ5bW1ZjLvS5M5qwi95",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

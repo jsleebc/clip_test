@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTPtmGwCGVEtvfEECvQHEZANbULx7J1gyfh7u8ftWHM8S",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

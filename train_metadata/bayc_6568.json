@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmP8jKLcn2nASZGFQEeMFtcy8rcmUmrV4CwobBtxCiDmG3",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    }
+  ]
+}

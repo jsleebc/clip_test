@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZ4CksQq8popdCsfuDdQ9E73Uuoe4PLdGKumUdhsQkHe3",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    }
+  ]
+}

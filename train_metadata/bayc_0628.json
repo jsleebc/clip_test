@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVHFpiVNQALo2hJ1mAVmqRPX6FA8qjDLqqTCasMMNmx25",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmcCZvFzNeFDQkdudmHubarz7wH58DkjWUvfSHwu27gQ1J",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

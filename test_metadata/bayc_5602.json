@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZNc12a1VJ3TAYyVsfL8hRTPPnEoKwh1gLQZHsqa5vnu9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmbby6vT2CNocDKLWFG1xHBSDWqRihCv33V59awf8bUcsx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless Logo T"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmfDvEebD3EgsTBB624FvswLWZ2W5mjyxYpWRx8D3YvWRv",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

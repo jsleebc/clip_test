@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQNMTs3uz4Y1Ajm4a8G48Hqg2MiS89FPXhvpMLCfHEDYW",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    }
+  ]
+}

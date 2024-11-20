@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNU3yNNq3uD5YrmcHjuTnUX8ED8LatGp4GBCqsfHAyGb6",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pizza"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    }
+  ]
+}

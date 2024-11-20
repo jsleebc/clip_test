@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmRbAnQ7TdjeXMq5XgLRAb9MSjRe1roNuoET18moHbiKnm",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

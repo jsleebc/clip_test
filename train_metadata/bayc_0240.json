@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmefcCgMz5SHBjHK9kXw7nu1dyKFW3z26SWsCbtPKCMm1j",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

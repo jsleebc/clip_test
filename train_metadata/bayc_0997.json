@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUwZXj5cz2Gp5ooHr4dWKDtRpApAKXpTqwmjfYWrmhbgt",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    }
+  ]
+}

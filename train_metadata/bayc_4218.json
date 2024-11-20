@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmdzntPyXqch3zbZvVCkZZLMmm6yoHzvRxC3Q51gaVF5WY",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

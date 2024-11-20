@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTbYb7z6k5RC6eqhmo2ChyUa6iouGnghWYgcoQuQuez3d",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

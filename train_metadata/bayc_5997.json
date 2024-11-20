@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSp2bvMbUjqfx7yxBCLBFCz425iTMmKmNUMX9oZ9s2PTJ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

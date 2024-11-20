@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmU1EU6yNSmZP94GstZtwfXegxHEoLFwjgMnYFTEheSJHA",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless Logo T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

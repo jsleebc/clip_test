@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTRHiYdGksGWiUTFGz71p4LRtXtFnZvtp4eD1AThHSqJj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    }
+  ]
+}

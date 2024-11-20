@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWcdnsbdqP1e4vsNJ8fKLsHTiFPe5KhACa3owM9mRS1fc",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSgsoSYJH3qS7gG2rzDR3ZhqyTSz565ZMdLFy6N9SuBvP",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    }
+  ]
+}

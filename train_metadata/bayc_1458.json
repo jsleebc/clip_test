@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQpuaGf8AekjA2aUKyo6BeCwFDFzQiUUqdcV7srrPfXnb",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

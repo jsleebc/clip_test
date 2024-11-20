@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmbgw3FkDUfLLprVKUEjD2SRg3BYARfDswdYmg9W7D9cFu",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

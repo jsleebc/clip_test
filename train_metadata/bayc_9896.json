@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPDFxWv93mwtyx5vwMQWzDdcjYLuj77wMX1cKRU946yZe",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    }
+  ]
+}

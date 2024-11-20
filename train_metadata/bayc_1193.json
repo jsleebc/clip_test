@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmbwGbziPyJ7KQ912e1TAmx2DNCzW9Z3wdpE96BzmsVGLh",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

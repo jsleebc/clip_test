@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmcjhr9gUmktikH6ykgSLA1BtMMeDVGwG7n9Ses3jrRbsB",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    }
+  ]
+}

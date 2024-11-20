@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdKXzJ4eQjZZMQiFwjusRMVFrNRDci7Q9pA36vo2JBVQo",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

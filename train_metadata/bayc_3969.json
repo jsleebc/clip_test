@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQMQ8dypXog3o4bVqFuVuSmixqfHBWP9A79ASN3ost9pd",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

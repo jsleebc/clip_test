@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmXmJkd7K5qpjRi4TCHghgJNduxYeCBwyufukWLjeXU22e",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

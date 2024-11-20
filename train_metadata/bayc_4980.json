@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmWwrez38SYEgKcSzsiQzB7T5geDjrgyi7g7iepftoCRRS",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXFTZXVcL2GHXBJpwdbyhuWawE1NCMaULNLLdhdCy3Snu",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

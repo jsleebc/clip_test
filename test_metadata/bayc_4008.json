@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTnELJFPTCVrxtENESht5kREhZiCJSYicNN9JzPq2iRZx",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

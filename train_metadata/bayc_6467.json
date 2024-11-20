@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWdTcs2PugVQe6z1m4UGyucQbL3DwbuVcFsVvbo1dZGUk",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    }
+  ]
+}

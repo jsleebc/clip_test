@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdCU5neUdzXEgktzQso45KYisiqngxTEXxkUVnci6xJn7",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    }
+  ]
+}

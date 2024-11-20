@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRmM2RJromi19eN5esLLzWdjmEZXugXeYwpJpd6cx7mnM",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    }
+  ]
+}

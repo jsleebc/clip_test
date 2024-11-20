@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmY3Zir3xFb5WfRGX7tqTZjWcDYZdxagz9NJiFNpBF4KeV",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

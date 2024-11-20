@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdgckqzbN5LLg9nPGnqnoEHNauSsdENQsZTqrBBikjzRm",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

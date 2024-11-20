@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUQEogSmRdN5yyBDVKRTLcjeccFUxU2xfyRXCrT49wiW4",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    }
+  ]
+}

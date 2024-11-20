@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPKhosRHmobeDoM7XEEHTGCfAiCu4UKYZXXAd1b5UEzaq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

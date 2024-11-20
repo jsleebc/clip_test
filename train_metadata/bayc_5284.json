@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeGTCohbgQRyqEaWo34UZFGyRZu435LR6U2YemJRvnvie",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWfpbHfmhh7SacAfNF95B8eBd62snytQbYqyL2PskgjPy",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

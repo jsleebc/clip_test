@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUBqWtkDC3abWxoMKLebspd5dkXKKnBSz1dcdyU5A2Vpv",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    }
+  ]
+}

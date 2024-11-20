@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXdCfxJztVP5QF9i8qDZDM5CcLtfWH9GgJbi19NTzsvbR",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    }
+  ]
+}

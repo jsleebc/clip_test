@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTBkFgxCSqtRSRwuvWki1Qw9um1ZBfXPqVREfFRscVaGJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmToPHdRJYJGSW6XbE46HzNdKXYHsPLabHyVSMFZL93s59",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPEBjd7xYdrwZhBDVBa2uKpoVAuLHLCYsTWvGK6M7xbaa",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    }
+  ]
+}

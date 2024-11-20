@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRfWoGBCQZ1AkbW7p3KCBfxSH2DF3Rmirtr2Tn3D5KpzA",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    }
+  ]
+}

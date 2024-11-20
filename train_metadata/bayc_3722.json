@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRxKAPFMdVWwVWMMzpRViCaFRXWVmED4ugyoY65Sgky82",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pizza"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

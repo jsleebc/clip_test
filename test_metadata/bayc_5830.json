@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNigGYVLzWWqeXcEZVaoCCSEKevkQEfkZejKvnCXrU4dW",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    }
+  ]
+}

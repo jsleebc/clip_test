@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmThyZzgcwTkbgurGMKxSbnhmu4oHeEt2VcaxkUU43TvV2",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

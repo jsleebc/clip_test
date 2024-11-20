@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmfNhsB6vNoo9dXXN28ATBzHfJhqEPX1Ww3SvA9TR7ZmxY",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmfNaZfGnafibw77C4494bysSrnf4S92xU7br6cAtN48DF",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    }
+  ]
+}

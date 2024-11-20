@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPccii4JgGDDegNtLETQcRQuu2TXW593SaSjXZcy8yFBr",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    }
+  ]
+}

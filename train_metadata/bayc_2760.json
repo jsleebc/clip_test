@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmX2y9QC4bpQHSQBXajYrbX7pqC5T6GnLKbqetQZg2YHaG",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    }
+  ]
+}

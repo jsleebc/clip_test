@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbeqCRkD44jAcFU6U1WekwxA5RVqvbhniFt9zXZKbJTTk",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

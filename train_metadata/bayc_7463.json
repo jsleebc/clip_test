@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeHe8nF9CwWtThbG162gTwDwD5Fi6KP55HAmfcFT4gQwW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    }
+  ]
+}

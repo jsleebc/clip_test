@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYpakVBH6DjhBZ8yMLMy6A3QBJZG9cbRunZ5KEoYc2vGi",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    }
+  ]
+}

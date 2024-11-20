@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmV32Chadt8CDy9yj8LWsMEktVggXvWKbR6Kk8Pd3PX12t",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

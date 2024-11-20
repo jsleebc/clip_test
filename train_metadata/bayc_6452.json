@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc8pQVwsWEwRM1ydubUZx7u2TxbCW5ETW3fiEowRvF9FQ",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    }
+  ]
+}

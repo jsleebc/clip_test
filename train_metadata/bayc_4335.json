@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZvT4dst53Cxui41fZqeciFj9FRKyVLTe6ob5SJLFsjao",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    }
+  ]
+}

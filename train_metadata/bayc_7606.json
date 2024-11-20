@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQrEKXhUq5YpnHdupkX31ETrWQn9RHJ8TcnYbVTSGGd86",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    }
+  ]
+}

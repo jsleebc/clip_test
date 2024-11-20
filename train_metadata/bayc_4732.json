@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmS5h65jRPsSMhmvH8kx3y5RD9CrRQ8YrpUqXmwiWXNQ4Y",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc9B41JZzVak7o5eEQJ7BCpLegxQGtdH3isnQz6nkgJ1S",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

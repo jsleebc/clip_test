@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQpCnfLYmJUtmDBWQFyQ7HbGxHAqHyn5Tbp4KMTtA8wuj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWR1kBDsd7YaAtVb6jeKTHaDDkvVtWMSRHcUBczAWJALN",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

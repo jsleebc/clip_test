@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmX4xZRA3MyAfTA7Gseuw8XK1pxdmQJWpAmtveWiTjJM4w",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

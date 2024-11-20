@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmWAEwmJgwYpwAWwggccP7J2QxZ4qtPM7vRWyxV6NQ2WRm",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    }
+  ]
+}

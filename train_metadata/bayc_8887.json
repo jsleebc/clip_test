@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmP3cr9dRRKagS3wxswizg85qQDAEYbggbYAhEAXmtMX5d",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

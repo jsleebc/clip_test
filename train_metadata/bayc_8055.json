@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXDsYrYjq4uH4FZC4MEaJREx5oNDWeieaSVUEJv6xqcpT",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless Logo T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

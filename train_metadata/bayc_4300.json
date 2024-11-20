@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcYoUMdYXVMqTb3C1QebthHbrcjjc1TroTQsfqErAzMKs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Dagger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

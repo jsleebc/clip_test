@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaY6iEn9VZQfjPphkR4qZ7baJAFnSveTakRFkc3yEhDFr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    }
+  ]
+}

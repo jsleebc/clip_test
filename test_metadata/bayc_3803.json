@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTCH5xpAa7Mbt8ByYCd6hDViJb7KkMAKVq78LoJz1HvT6",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    }
+  ]
+}

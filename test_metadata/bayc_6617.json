@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYuLMoouWjx5VtpjVzxqns9uvUXKXbesAsUoYUkVKossP",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ]
+}

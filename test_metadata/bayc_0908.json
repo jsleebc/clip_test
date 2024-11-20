@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeLFJi68x2DHhhwmafw4MW6K5vKxSiVtad6RXuucstfD4",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

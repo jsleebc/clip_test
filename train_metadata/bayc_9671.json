@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQmtJd5XySZz2xkLu7TYV9Y3rVAHj1XpwdBuESLCdRykp",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    }
+  ]
+}

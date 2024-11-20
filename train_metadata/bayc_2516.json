@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUdAfeSbKhh8pPsGfnMDQvVeZ5dcsHmAj1Xet1YyPo1th",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

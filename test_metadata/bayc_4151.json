@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmTjY3h5beVWMUbWkfSyPf9LCjAzdK3aNkD9LPkUgsZgU7",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Dagger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

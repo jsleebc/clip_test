@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYdiwjuQSxTUrT7CGhfon2Z4GPAzqbVs2r8DQ6XeRMEQ7",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    }
+  ]
+}

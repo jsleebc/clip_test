@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaqBb8qNU5KtJ5pj79e2RBBntqrwCBCwa2nTSaA6ETQTv",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

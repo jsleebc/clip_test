@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPy2MaUrKRPyVBfLhMnYTvMAm5wsdrD4gXKBjUNtRVrRy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

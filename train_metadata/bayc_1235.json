@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmW7itYSSTdQjvofvqVubC8tw1ajdNJDUfdkCCE1xTbZ2r",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

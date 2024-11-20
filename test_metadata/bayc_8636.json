@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWs2tVbH13XM1ueVwBog4V5iV1TjvKD6d8iWkxtfVhiUi",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    }
+  ]
+}

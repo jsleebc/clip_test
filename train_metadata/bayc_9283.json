@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmXVQLgEWQAyvekNFrZMxyqpbN9yNNstuKXwP2WfHee6Xy",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    }
+  ]
+}

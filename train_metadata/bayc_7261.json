@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTdeU1PHEtoArc9NrbNfj1hyQdpB8XocFdRSXCHCVqpd6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    }
+  ]
+}

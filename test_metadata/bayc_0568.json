@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZoZHkiwF2vECSBB6VEGn8EweeNa87vBdTNuxbnBUjtTv",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

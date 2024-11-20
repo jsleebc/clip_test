@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPpE2kq66JCkztdEiaZvLXMoJaUDHjoFu82Nbi54BgqhD",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    }
+  ]
+}

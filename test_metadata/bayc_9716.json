@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmewAugmHxb2V5snpsRXenRfwY8zGF276j8LJ69DafuXvw",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmY9QkPSr1vK5j8ZJsDXY9cTMA7roiwFX6t1jurJPn2gGS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Party horn"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdpEAz3C5Lq2yGvvsngLFCbArxGebgjsRH1SxeqZoLqvu",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    }
+  ]
+}

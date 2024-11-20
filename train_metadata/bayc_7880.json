@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmSw8SFDfvSU4qAjiRE88e45LwBn5WF4vWyq3LuZkBHaZG",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    }
+  ]
+}

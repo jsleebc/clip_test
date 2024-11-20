@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZD2FsaUhgzPrqqqgVFkYw83a3B2gjrL5PGjZ3UwQ669B",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    }
+  ]
+}

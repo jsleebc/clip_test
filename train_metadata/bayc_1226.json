@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWCUhgvmheUUHBkreDu9EnyJA6Yk7HNZCL1GZpkTXxjnF",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    }
+  ]
+}

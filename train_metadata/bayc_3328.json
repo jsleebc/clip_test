@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYGVyA27EE29MsQk2mk8cuWgsfXahjm32z9CES4dWGcqU",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmbkjpsafmjwz56fBtFkGdw2eNHcJNGoAjaz92LEo7Qqds",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    }
+  ]
+}

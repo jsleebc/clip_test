@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXQGTsraymhXXmEgjW13vW9N9HrZ6ebUABU6BnohALcRc",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    }
+  ]
+}

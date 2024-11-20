@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXonBoCAMkemf6LrvyyHJ3g9csbngaN6jr8YkisK65Dok",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    }
+  ]
+}

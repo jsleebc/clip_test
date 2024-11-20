@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQrat1svbfzeHhsmJg2uNMrqaoDExKNj5kvnN81tDcvTo",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Kazoo"
+    }
+  ]
+}

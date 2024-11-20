@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmccWS2uSxeKfihs62G3zFmHM6tcoB94BrgqHeyDJLgYHh",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

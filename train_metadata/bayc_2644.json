@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRqFTTHpDcbCduccYYuG9TFcNbmv93RMZMtJYabjnymfj",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

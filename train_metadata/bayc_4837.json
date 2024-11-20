@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmSRDDee6CLg3WW8BGgKgz6Rj5vGfixBKj9rWQ3XtPofbm",
+  "attributes": [
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

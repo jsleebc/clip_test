@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmdogvwtHyzjbNkCPwZAXzHPoCKGnRhxThfMp1mZ2VMkYs",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

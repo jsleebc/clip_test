@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdWoh6Dcxd3jigcQnq1XzKbnfqtS4ehvPkyzniRbupjaU",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    }
+  ]
+}

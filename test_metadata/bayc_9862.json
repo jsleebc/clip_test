@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTqbkSSDQEpooBec859asjCVHgYeJzo6kLXtYXNQq4vkB",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    }
+  ]
+}

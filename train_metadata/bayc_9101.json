@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeVsCdrpr1HTLoD9vSmmCr2S3b5CqTRdzs2Sh2Gon1NrE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    }
+  ]
+}

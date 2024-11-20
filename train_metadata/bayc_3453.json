@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZEGxncoPY45jB3JvYthc7V77kzrMGrwiS6VcoUTJs4aC",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    }
+  ]
+}

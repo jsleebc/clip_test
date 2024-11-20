@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmaw9RCihRXxeYAcW2tcD6g5q2SZEYQG7rBtJxed8Znk3L",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    }
+  ]
+}

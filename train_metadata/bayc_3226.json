@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeWkiEbWKVBUHn5hbuHYeLZDUzTNMZ2vxM8swRXeekyJi",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    }
+  ]
+}

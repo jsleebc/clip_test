@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVN8xuBCarTu7j6DwuPjqwGsjzVnZ6p9DmF32BwMRMMiw",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    }
+  ]
+}

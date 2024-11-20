@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNhWZ83y87XmAKEThMwkzYwXERm7MwY3YGkvx4d9FHsQZ",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYJ1ycoJk8C2HvivozqF4Vcdx94VC191beDJWUoy2sgZs",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    }
+  ]
+}

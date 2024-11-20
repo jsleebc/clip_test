@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVMbTYBpPtdZJBnvssytdT5ZaugM3JCJk4vsg5RF76mZo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcvvqtMM1DGFvtHHknHdBWpEZs5vgFBs2PoDM35Lqmk7Z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    }
+  ]
+}

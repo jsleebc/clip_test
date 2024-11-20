@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXGjTz8Caof9oBFixQgC3HVTKYpx4t24a8ohKeaaGWxsw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    }
+  ]
+}

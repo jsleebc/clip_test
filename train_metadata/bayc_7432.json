@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYPu8jxYKALMAfKaH6j4UzBz2T9GizvbGpcM34N6B6TgD",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    }
+  ]
+}

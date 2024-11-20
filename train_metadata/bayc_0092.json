@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTiUpWqixCFXbLrKJXpAB3vWKVnfQuqiA76Hff87B8ch7",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    }
+  ]
+}

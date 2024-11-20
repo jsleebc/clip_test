@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTWUjzu6Dnd2RpZJhzU1cEkuQem576r9xCXN8kFXe8R8B",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    }
+  ]
+}

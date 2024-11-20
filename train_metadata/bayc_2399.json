@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTzFphsYcPbpi8xkUE1FM9diMYpCHjhzNoxFTnDxqJmTx",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    }
+  ]
+}

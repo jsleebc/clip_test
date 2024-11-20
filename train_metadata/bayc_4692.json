@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNdm767SP69GWp3RENXu2XY9s3adzXcraXk6BG6Hi47T3",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    }
+  ]
+}

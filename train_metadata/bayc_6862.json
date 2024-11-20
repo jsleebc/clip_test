@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQjb57t2hBffe25NrzFD4gKYFJLRcH9K6RhvqQ7G5PEMY",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

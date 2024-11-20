@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUxKhXr3XSm7sHptW7BdUdwE9fnbDcn2xLbmksQbSASKp",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    }
+  ]
+}

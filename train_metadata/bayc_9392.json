@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmadLNx9A2vnnAySaZGNR8xYsZNHewNA1D2mxV9bjLeHZs",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

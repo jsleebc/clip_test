@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmREEjuFp4KMse9DCq1AS69QqYXCUBb3DgrXjffBeXJHNx",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    }
+  ]
+}

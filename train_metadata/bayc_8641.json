@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmfBBoQxiX3kvJencmX6bZofxYZKvVoxcj8AQyiBikbsrR",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    }
+  ]
+}

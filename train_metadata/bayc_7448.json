@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVEBh7fLY5YxPWQZoeqZqpi75U4UAyUTmo7kmaPrkmbVo",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    }
+  ]
+}

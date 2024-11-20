@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUW4qsoHwaN8tLE17tszC1KXFeNZeYBcXLeTgzhCLQdw5",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    }
+  ]
+}

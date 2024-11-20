@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcQyi8RbKDxyX4zGcyvxoXaa6Rvod18sMmSRmZVqPt2rV",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    }
+  ]
+}

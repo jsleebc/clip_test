@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmbn5xPn9pUUByyLZfBuxdFXvp9H4yt6uSfEWegDsYVt2f",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    }
+  ]
+}

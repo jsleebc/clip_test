@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcFdPrG8rk5WAbV9utKkXkkGbkfyLYxUHH8RvHE1h1kSP",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    }
+  ]
+}

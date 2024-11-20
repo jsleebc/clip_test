@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNjbfQQpUE6F1woMWhvBELu8oqan7Yyi955hXPbz6akaL",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    }
+  ]
+}

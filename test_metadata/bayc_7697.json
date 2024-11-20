@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPMKT18hy7mxLgvCmayZYBezkyf9hcrZ3xnABqvejyTdh",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

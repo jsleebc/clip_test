@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNo5yQQp5g5PcHrseXUYHfKDLrTLyC8zRj19U4jk1hRrV",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    }
+  ]
+}

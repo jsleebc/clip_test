@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXr9AjT1jb4F1XGMAtjzmjG5gjR4r7QMGw23Rny5diKWf",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    }
+  ]
+}

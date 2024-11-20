@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXxhjE9fRiU5gSnKcAs8kKh6zRDfJMb6DvC4kUVPCJHEL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    }
+  ]
+}

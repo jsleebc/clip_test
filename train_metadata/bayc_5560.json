@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmV2eysfrsSE5oKqoHZKyWivJ8bd7FpTGjUG9jCYtrD9Zn",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSaiHwNXv8VTTdRZDyRnqLyGN7WFt4RGdeQ91ScchT7q2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmc5Qxxvak2JqERAwrwDjStQa1TQyi5JYZQjBHbaZZQG6c",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    }
+  ]
+}

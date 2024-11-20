@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmccK2N2WWjtCcJs43tMUQgDxCmBd1VkNLBMC9WdxF8HdZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeH6BUJqLWUFxoXKE64wyLYe964gx8xvzDsJMBtuGELTR",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    }
+  ]
+}

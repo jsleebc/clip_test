@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNzUpXK8uLHUvjqJGEBNeVrv3GWuyi1h5f4VXUzdX9G8E",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    }
+  ]
+}

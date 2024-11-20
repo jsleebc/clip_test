@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://Qmb4cppPTU8xbidkzpjJBdgYBPZYFSJ38QQUcymbJuvtni",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    }
+  ]
+}

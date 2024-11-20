@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZxEG7kkR6kGhZR4JuH8LVPGv8RJVMRC2fGqNova4Zsex",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    }
+  ]
+}

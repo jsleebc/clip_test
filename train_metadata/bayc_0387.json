@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTjuA2wJGV8HgEM6LejBfLSVEupC9up5FQSYNFiqew6XV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    }
+  ]
+}

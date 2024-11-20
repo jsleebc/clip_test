@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPN9EqgiM8JmTJiUrht7LYu1CP1huMvZ1ZaGvn3cZm3tX",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSisdxT84Z8esX6VbAyYjqXopE3zM6gnM2vNUxUsYVD4z",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcgpwunhA2ycFEFKfxaMn6xv7WVrMXCYHTQMB3mVdk6mZ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    }
+  ]
+}

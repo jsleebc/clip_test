@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmSXCwZEMuB3g14yFpnkemBhsZhEqey9pQ5gWbFpoHnQCU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    }
+  ]
+}

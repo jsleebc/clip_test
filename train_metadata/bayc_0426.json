@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUFTuneJqESv3Sx21Sv9TdQidugtr23gckakgVDDBH68k",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    }
+  ]
+}

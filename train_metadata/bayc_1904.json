@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaTmANmWSnLBt3qF1ggtTvsC6J7SsCeYUCsT2fmvzYW9W",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    }
+  ]
+}

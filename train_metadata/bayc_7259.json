@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qme4PEyCfqsY4ggZsgGoNZShEnRHt4LTqwMe1mT8tUkHJs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    }
+  ]
+}

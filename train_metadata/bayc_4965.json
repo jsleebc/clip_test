@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSXsUPXqv8vfAJ6Dfv6mvc3kKCLWswauXDMgYEFMWPPTi",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    }
+  ]
+}

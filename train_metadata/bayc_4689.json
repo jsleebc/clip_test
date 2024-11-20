@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qme9MBBGCcSVft5VDGk4ZdAVjeKr1MocAVVV5oMPSZPwmK",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    }
+  ]
+}

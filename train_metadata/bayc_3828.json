@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZtNRPoAXFdjeaTGDqNEECF5etdXyqiVdCaiybb74Z4Vw",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    }
+  ]
+}

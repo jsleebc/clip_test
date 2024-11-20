@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfFmmYNKLoB9GY9nvMK5JwZFqezYWBBNH9Bxk2zZFjxBV",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    }
+  ]
+}

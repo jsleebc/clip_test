@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWEmbw3wGUJ5DocMvpDpVfkJ5PF3yHvzSsmWVpJk6De7P",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    }
+  ]
+}

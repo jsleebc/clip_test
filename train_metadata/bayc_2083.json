@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmU4QQfrsaANDtSUT5hM5nkVLTpafJXpv9gktTv94PxJoa",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    }
+  ]
+}

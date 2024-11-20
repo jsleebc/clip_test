@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSXSVZzefFEzDn8dfEnfVgTz5vr8ARFuTdLRegtM3EE6J",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    }
+  ]
+}

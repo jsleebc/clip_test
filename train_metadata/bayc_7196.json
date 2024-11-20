@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYBi8T3BzKkEbRhirDiuAdPxC2zxfSZXjk9QuitfT9KNY",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    }
+  ]
+}

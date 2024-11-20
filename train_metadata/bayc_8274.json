@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRpemdFhhUpZUZ7qxashQcnyDb5Bv3p4yEkN9P4Bvb5KY",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Dagger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

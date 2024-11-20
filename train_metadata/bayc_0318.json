@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmasMe5oWjsuMk69MCVbzxJ9jCWAT2ttNQT7KiQadVM88C",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    }
+  ]
+}

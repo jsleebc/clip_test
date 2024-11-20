@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmbv1aANFxMbiEkBqaXc5PFkSkdnRV2TJxwRpzrLDE3uTx",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    }
+  ]
+}

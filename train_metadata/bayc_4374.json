@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaYq2rkM8KuAmEgEGrrRWVbgSEj9RCATiw9Fh2NVhJCcg",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    }
+  ]
+}

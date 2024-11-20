@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmTELL2eMmHcioXhUAf5WhM73f3bzjc4DitH3NbzWhRRMF",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    }
+  ]
+}

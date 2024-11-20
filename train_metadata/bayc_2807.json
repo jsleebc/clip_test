@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZRB5htujE2t9PougzQzq5AhfYRSchfXKaS2DJrPJ6LmU",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmPuscGPMgpqukRHUERmTbXjaeEozT6UBbki2yZdSMCzfP",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    }
+  ]
+}

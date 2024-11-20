@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdD1GsvzavvQeauJ6VnVEPd44Wp6FVTmEipaN75gW9cMf",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNwqdFt4cAET4RSggMhEmroXTmHRjLYsCyv46BKs7u1Vc",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

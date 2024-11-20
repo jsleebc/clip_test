@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVBLhbXZ4S28zv5QRB4z5xsisiwRvmrnr4WSfawDjR9rS",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    }
+  ]
+}

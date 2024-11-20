@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNpLVqkRc88EcVgiYmeY5fHba7MEcDUrXxCcx87HRgEc3",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

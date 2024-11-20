@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTzAMmyQVwpmq8TwtPJEutC8spNrMCvBfE2Qw17MiAvxM",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

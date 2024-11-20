@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdhbqvipgSZbzYdvUZzk6536TeiHNUwzn45sRDvExD9GZ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    }
+  ]
+}

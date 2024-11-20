@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXenSSvXHAZd3wYtnwxcJVgbAyXTmgcR7ssGMuN25JTPf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bandana Blue"
+    }
+  ]
+}

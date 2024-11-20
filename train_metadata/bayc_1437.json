@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmXC4GZoGDvJBXvfomsThDWYca7MR7GTN3Q9hiCZkCcmTC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    }
+  ]
+}

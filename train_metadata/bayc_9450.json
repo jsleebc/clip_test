@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZb4Qvk8a5bEUeZhV85WPBfEbA1tReFXyK4c49iLHSsSM",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTJQWTwANSaBppgxoBxYnfjW3MDwiUAppiv8fW6JmqMtr",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    }
+  ]
+}

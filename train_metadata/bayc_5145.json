@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaShTLCPfpJd6ZpErnk3KN2Mn8nd33kYPAXxD7hT6PGYT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    }
+  ]
+}

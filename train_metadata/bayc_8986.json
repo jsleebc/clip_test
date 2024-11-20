@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWSuTCPKAX5jtF8boJ6kaL8qQf6BvcRgoGeE87vCA3zYP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Beams"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    }
+  ]
+}

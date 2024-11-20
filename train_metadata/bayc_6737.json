@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTGfGdUabbyKjmw2KUikt6Ep3XwL9kS9qEbAZKmJSHJVB",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    }
+  ]
+}

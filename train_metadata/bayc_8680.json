@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbjmYPZNb3pwsKksAdYn73bYJhX5gws4z317dXFwEn7D9",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    }
+  ]
+}

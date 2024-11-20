@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qme6dCSx8MZjjvVEVSmcSUBu7FPYh7NwHiMBAp879iE128",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    }
+  ]
+}

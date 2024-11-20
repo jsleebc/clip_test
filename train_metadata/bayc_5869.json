@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPpKvBYhfJ1XDNyxBcCmdrQ5NWgLNkM86EV4FinfSBfyq",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    }
+  ]
+}

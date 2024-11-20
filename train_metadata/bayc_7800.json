@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmNRhfXbJ79cJgv7EJmFKuihG6azvTLZE98x4PYZLM9pBW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    }
+  ]
+}

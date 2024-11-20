@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaowBZo4WUgZrZgRxSxH15y8UE3A95fvDbT8Vda5aqGrv",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    }
+  ]
+}

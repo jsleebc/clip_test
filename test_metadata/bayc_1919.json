@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYSg9kAZeNirNZFGPv5iF8Fei25849kroUhZrvx9nW8Pn",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    }
+  ]
+}

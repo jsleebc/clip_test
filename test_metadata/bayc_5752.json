@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmVUsii8v49CmastqUPnuiF2yde1MoVCqyfVRkqkpnw2Bk",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    }
+  ]
+}

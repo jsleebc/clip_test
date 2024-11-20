@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaAFm8yUJod8c3S2GxNeYiv9wF5QCyWC8H33sF78Wvvre",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Flipped Brim"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

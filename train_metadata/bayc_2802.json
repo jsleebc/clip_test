@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmR8aPrCeLXZZKsiytg42XT3d2g3FYvHxTke9CcqRLVFRB",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    }
+  ]
+}

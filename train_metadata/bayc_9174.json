@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmZBG2myAQKMUvREeJM9UPbiyhjuiGzKUs3vK5Nddh9RoY",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    }
+  ]
+}

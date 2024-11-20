@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXE1KLRWcMhjzfPhFd4JbjehKRmi9FMGPsHZPnLWt8QSf",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

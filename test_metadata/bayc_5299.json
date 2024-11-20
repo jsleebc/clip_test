@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbBiyo4CXdrf7RUAThenxUFnoBMCFbPeA8gjRN8awMpfD",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

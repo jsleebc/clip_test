@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPJqhBrLwRucVfwbtH6F2h1ratAA85c33F6mh228Ztzwg",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    }
+  ]
+}

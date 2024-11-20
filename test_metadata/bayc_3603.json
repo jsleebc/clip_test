@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmdU3hgcGiy2rM9fdxaCjKZyZrrRr4Gu5gJqfzj36zaq9B",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

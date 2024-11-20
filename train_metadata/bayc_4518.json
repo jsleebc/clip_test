@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUWxEZ4Ai9BAqbPwHbK2CdQh89PnesBEA5kpJ8c5LxbgP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    }
+  ]
+}

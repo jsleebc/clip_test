@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcG9VWScgGyt7a1FGDQmdV9aAx7kWm4rcYsVNjfBRvPQJ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    }
+  ]
+}

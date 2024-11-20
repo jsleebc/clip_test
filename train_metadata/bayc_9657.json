@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUhFGh9BnRsx7KaqGY5EHUfbze7sYfyDkuoVZKxg4gyGz",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool Turtleneck"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

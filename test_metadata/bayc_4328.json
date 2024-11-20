@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWGBoJXthZ9Wor7r317uNFeE28hRtriK8NbA9Ut4nCfrG",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    }
+  ]
+}

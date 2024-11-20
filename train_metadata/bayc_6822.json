@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVDC5MtGHnCicK8M4Z8EJ5u8bkRsWAH7DDrJg89aUoxNp",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    }
+  ]
+}

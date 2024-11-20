@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZ9uT6ruWtM7291yJZtkADobb8zrFMhMYjhfP8PUpzdHU",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

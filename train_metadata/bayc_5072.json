@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRsf9pvDcTWQfVZdBvMhdujmUHJsU3m2TsCQSRu3B6Cm9",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    }
+  ]
+}

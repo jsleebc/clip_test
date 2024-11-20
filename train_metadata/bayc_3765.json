@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcRhuts8UdAyLeggadPr4ccCVDr4m7LtZ9Z2WJR5Z1RMb",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    }
+  ]
+}

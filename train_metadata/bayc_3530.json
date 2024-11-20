@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf4Gq4fMyYX8oQDVR22T2nY8dk9Y6dq5YSQMZJvg6JwMq",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUJyqFysuVua54aMVD5mKLTbDviq1daJTkqizhSy6spXL",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    }
+  ]
+}

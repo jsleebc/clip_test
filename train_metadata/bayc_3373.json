@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPoHTziB58tVU8i7a58yhQQRPE53VcZqoxGNrtj1mk2Xm",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    }
+  ]
+}

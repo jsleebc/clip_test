@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQP4qWKZPESqJQ7BFbh7UH15Mp8z3DzjyoQDXZogqoct7",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    }
+  ]
+}

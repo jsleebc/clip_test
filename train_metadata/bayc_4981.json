@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQLncbR52YdnkL4JmiZoYrKPxcP8iTPEZMAqFmvKH7jqo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    }
+  ]
+}

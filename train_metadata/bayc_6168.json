@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmWVBBxfCHLT8C4JFYTkvjvT4SBaZyDj2eNrNYjzFotWzW",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT5euK6nvKuxrAhSLFLrAUQ2UNAav6nZRRNzLxhgeus5m",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    }
+  ]
+}

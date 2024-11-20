@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmeAgn2n5tJ5oNdNvhP5BhLMLpxvtaDLStEdzMg1bz6FER",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

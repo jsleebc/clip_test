@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qme42AsBqbYmGHgpteB1NKxvuYrWVwaDXqEz64a3oDKmLb",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    }
+  ]
+}

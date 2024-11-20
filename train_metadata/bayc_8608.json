@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSFUMC52BtwNhC8voMtEYi8XGbaDMZgvbzHPpAWVAsFYY",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    }
+  ]
+}

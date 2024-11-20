@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbBN5gX1QyxJYeQs8DrGZTiDCJpQY9wkiFCDteXpLGbQx",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    }
+  ]
+}

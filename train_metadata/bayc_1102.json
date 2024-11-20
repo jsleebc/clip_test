@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRn2oW13e7nvMqpk1NZng9FeUDM7wSqiPwnmmkVXrjwDD",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Kazoo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

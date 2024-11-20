@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSxHdA1KuDT3TE9wAhxz2PLdu2qzXFzQPxpa2JvNJLmuf",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    }
+  ]
+}

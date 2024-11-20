@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXf1JAdqT3q6sCiGH7R1u5QbYFw7UvSi7iPgqNm4THdDi",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    }
+  ]
+}

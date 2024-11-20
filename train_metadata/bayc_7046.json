@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmafMdMbELQD1tiSZSnLQqbq4ZHk31XPYR3P7V3b6vf3Tk",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    }
+  ]
+}

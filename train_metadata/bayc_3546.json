@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT6BRfEpEFui1gdw2AbQdFHoWQUwUE39NDHVbiYTY2Ykm",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    }
+  ]
+}

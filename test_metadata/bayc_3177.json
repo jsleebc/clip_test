@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaqwpCfyKB1umwPWAFmsFhWKSU9F81tweU9SVgjpMcZcz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    }
+  ]
+}

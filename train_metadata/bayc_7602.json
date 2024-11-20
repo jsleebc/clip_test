@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY7QEAwKkVNs3KuANnwSW5JVAiw7ZUDbJ8fW7F9EQFbTB",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    }
+  ]
+}

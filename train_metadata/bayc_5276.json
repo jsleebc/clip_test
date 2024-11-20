@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmc1M6j1ByHHaFAWFu5S2X7PE3oRvKjva7SSdc3NNqFYsR",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeJJLvrtjiod9m5zDrBi77kV5Zo9hMJD9hh5qa38LGA4L",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPGw43ARikvdxihKWTCbFjWPYs36Nt6eib1XKyVxBnj7Z",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfQFfff74fyGJrcr3zg6cvgm6QGpc1tvqBygKq7EfEpDt",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    }
+  ]
+}

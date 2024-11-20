@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmW9aFUxU6T82dPrKEKytPMes9mkPqPWSoATKSNRyJ6f3z",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    }
+  ]
+}

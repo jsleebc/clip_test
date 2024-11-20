@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeUo9ARLSTgXx1yY6EtVn9UWDk8JrfFF7SX7q2Zt9ctSR",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    }
+  ]
+}

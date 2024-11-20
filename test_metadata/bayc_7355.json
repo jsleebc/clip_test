@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZYiwh8XrG59QKmYGFV24kSPUg6hD8buH9MsU7ikMmKHM",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

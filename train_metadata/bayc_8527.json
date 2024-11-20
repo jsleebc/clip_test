@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmex1UfYVizHC4qCGhfBC5LfMGXFJmv6ry7d6YfmfQ6JH6",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    }
+  ]
+}

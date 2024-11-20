@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeveSxwWaH5RnJcVVZR32RzDVrzdTHq5r8tUNzrJJkmeP",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    }
+  ]
+}

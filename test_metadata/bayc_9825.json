@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmadnV4GWr7FanFdBWkHZ8mxemHkg1B3rE3X1VDTn4rSoC",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmW27PY4yrjDSSFZWsLpePWSq39gwxRAEJd8kayfzgm1Rw",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie Dye"
+    }
+  ]
+}

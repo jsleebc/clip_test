@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb3HhEi2SC46FJnnx86Q4XKyj6vb4Kx2qPSUcnAJKKMXB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    }
+  ]
+}

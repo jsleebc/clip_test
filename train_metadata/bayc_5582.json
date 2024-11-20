@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYnqAR5bNX4RMJ1ujDFD3HhQQiMACKYkT7ysbM1sWCdtN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    }
+  ]
+}

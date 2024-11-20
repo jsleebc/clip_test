@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTLjnfmS4MtPUAmBrBykHeYvhsdAxQp3a6sdvvLuUmNZd",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    }
+  ]
+}

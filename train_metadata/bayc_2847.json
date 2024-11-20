@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb4UsNYeSkcxKxhbYA2ZeKM89DxypZMMZqXR8AgptJ92r",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Necklace"
+    }
+  ]
+}

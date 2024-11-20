@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPLqgMkHWJ7DQ1PTx2WoiGdQYNDcBJA7y7KvDQh7WKKBQ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    }
+  ]
+}

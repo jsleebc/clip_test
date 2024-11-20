@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmPZrUWLQbXbHpE68nWgRSiABhzEhKBVb7fAEXVXRnennd",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Holes T"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmXXQZAPZTPX1HydL7ghB8NxwQ787XosDwwSjmgdHA7b38",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    }
+  ]
+}

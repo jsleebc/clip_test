@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRz7og9YrkZjjnydXiDKCjfdmG9XVvC2xSNjqaRjjamq3",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    }
+  ]
+}

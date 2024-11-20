@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNhzA6tw6G23xMKuXbuyMa7bgoJvsYqHk1114fSKkxztm",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    }
+  ]
+}

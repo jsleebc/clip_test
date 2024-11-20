@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWVNJFQcBh3kiEvLBjW7JKPsLadMSVtHMGP68a7nojLU8",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Noise"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbfUncePzR4ezgeHpczmgnEaDSwEaz93C9c4prPiC5FhR",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    }
+  ]
+}

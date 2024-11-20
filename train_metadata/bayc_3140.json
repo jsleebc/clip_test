@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYaZhgRVRtzDjeiQCDPbbyaA6u7mTvjEvNnRAYSsWBAJt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    }
+  ]
+}

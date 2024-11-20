@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmcsT3LmyeSYR6KcY2UgH8bUvaf66v2qtxSavGYAZqztyG",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    }
+  ]
+}

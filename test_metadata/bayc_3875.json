@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNLjZSFV3GUMcusj8keEqVtToEE3ceTSguNom7e4S6pbJ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    }
+  ]
+}

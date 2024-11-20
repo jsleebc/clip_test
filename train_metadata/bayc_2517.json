@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmebUeNtFtQCx5f5VUHFoRwV9acuiV11aWpgf6ZdRmdJYa",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    }
+  ]
+}

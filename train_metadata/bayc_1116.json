@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbiiF1cMQ3RkiTFoyThMRwCUUTVXt5nYjvvAiFymYryFp",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    }
+  ]
+}

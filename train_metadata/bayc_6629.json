@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYDouad8hPsEQzd1k7sXoXRkSqTs9WzuqcW46Ft748XPy",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    }
+  ]
+}

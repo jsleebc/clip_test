@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNexDweVCAkX756J8VC68SNY5vMhgfF3Zjqe1ZaYWuf6Z",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    }
+  ]
+}

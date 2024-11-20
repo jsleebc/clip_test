@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmatr7oBHeb8ofVdCsgPCYBdFEjKVDVPEg171amg7Jbn5R",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    }
+  ]
+}

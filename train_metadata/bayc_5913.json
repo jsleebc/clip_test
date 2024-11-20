@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSqHDXnkFudEZvji3sFpH9BjFaCq1pKK3FRjVX4MwcCww",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    }
+  ]
+}

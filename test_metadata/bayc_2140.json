@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSV2KEF3izRLixRjH5uZqDvM8qDpa7qhG9HLSexQB1Y9U",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    }
+  ]
+}

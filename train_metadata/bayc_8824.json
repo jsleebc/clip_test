@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRrV2xnf5wRhByN6KYX7nwhNwB73xSM6o6f6HZMq9FF5M",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    }
+  ]
+}

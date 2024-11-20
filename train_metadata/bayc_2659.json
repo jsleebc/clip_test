@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaB2E9xV167hrX3o5ewS8mVqvcuNJisrMGPNyMc7oZWEc",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    }
+  ]
+}

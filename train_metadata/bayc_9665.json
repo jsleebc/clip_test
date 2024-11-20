@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmYmSEyNnbyLyXb32Pp33Je3vw8YnA2wM388pubPPmtLxg",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    }
+  ]
+}

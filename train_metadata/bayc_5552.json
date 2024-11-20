@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmPUpY5Pgn3Rvh3DxVZ2uPFSkordDX5ajkkssqnp9gMXkr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    }
+  ]
+}

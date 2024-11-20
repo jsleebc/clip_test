@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWCJyRAmUwuPNGTfzd7ZRi9TLUz3DJJKgWESYTFXU5trj",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    }
+  ]
+}

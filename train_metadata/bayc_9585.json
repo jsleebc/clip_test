@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQGsKpDBzYvRrjv4XmYNN4tcS2aRKYnPVbj11k8Ki2cAs",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    }
+  ]
+}

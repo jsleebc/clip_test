@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRJHXMsdfjfJiyZdDg8verrrepm6fgoSkAmfWiscCbGTs",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    }
+  ]
+}

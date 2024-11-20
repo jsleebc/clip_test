@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWgVuekGfntQJt7Pkx1tDL4EH2qLsZP9BBsBrVncL1Zjy",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    }
+  ]
+}

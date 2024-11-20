@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPKcLUbxERtqxiamNJMKfP2zGkQSsQQPtwdCuaUW8YYwb",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmbxLQ9TyBqafyL26g4CmE3teYYCHMDkjXD1iXohob9foW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    }
+  ]
+}

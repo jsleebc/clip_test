@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdvSD1tbwHvkiHJUQj7k1yT24CSYMBknNxNQUs6TjZL6t",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    }
+  ]
+}

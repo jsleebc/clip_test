@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPdnk2qPktCd9v8RRbDs6qAKeWpQ4L5FciAEvMzQ2YijV",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    }
+  ]
+}

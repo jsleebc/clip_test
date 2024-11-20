@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPyX8mLwmNArWo1SF6NrkT8mZ4LfRkaKQCr1VW5c4jxe5",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    }
+  ]
+}

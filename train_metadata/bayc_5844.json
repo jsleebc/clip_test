@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRp1nsAcFJfWjYG623hLBskCfYgcKC2oBj7NcYuv4Rhso",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Oh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    }
+  ]
+}

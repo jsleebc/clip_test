@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmPoPPGZEHeAGBUu4wyc6jBbsm6YC7NXCnMVtkzww8mqPs",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    }
+  ]
+}

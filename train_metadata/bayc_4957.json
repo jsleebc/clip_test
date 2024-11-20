@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWxJZoXG1qTeQrFg4RZ6e9JNrdWq67oqcuFePMGVtpap7",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    }
+  ]
+}

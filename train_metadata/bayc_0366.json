@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUp9zbBQ8sDfADJUN3GTqFNDPRXm7APhYf18DovQ9rFSc",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmd5LBnhurKga8pmG79zSmprn8uDcaC3c1KMc67eUeJkqE",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    }
+  ]
+}

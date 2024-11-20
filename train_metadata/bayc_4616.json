@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmaEta6EVARXGn8Vv1K1j8dGZhpGpWbs1rw2rLKV2huSkc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Kazoo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

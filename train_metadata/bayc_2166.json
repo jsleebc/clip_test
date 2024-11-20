@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYpcAfePMSpgCF3pUABHGH8XtckM5uxoaTykc7s8NgQ7F",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    }
+  ]
+}

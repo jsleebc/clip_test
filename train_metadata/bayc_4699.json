@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmV1zTCoCQ7xNBtnedWaMZzML2yLiMPJ2PQMxkmVxHzWzG",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    }
+  ]
+}

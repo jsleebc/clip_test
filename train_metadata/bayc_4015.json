@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdkVvufvwUBm5E8cB6Ah3Hzm1pA8nm8WodSSHWLoZzt2K",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    }
+  ]
+}

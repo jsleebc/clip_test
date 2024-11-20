@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPcEjeuiGd8TACu4RXryKNL1X7WxsPUvw8u8GcRxMg3Bd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    }
+  ]
+}

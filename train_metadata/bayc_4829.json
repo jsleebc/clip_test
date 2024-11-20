@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWNn5fdEGw7rt5GtyZhFtd9vCc7GRvBim6C1Fp9Aa6N9E",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    }
+  ]
+}

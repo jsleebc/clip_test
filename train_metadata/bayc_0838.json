@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXnTnTBDjbBnXYTg2XBHXWaHxtV4ju3itKt6Ch55oPnv6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    }
+  ]
+}

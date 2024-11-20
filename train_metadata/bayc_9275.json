@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmadSHaszWiRvJ5DoKsi8LRGVNmvSUSmw88967DvgyXSMV",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    }
+  ]
+}

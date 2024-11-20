@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYommoQrnhmsdZX2f4zybdd9QmrHoAeZKcUMYMsx7EeZ1",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    }
+  ]
+}

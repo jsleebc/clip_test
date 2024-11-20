@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmPgQMaowkCJ3nrsnNKuT81AYZBRDsJhV5piyjY4L9qvAA",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    }
+  ]
+}

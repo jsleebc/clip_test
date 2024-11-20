@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZmvqU1ZBt5pAucVbJ8Fm3TXfiHsRfg55xgCtwiY55Fjf",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmcuBXbwCTs7S8gr92zvHegDr9Gi5dz3rd4JGEbD9CvSgW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    }
+  ]
+}

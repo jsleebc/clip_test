@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmQksnZcQtQzPnQzHD3vKyBoHvBm1fS52aZmM55C7ShWFt",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

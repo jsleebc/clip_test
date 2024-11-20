@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmcxPE2hjXPNWkYdFQtq14vvZEQakFCuFC8ekVfU8u3W7x",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

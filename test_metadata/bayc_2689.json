@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSnmfWUTxvk4vxyKSEY5YrMKoDNjatopj2QNzEFf4aXEu",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    }
+  ]
+}

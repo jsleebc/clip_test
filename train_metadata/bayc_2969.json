@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeZJx9qcQKh4te61Cmg8mFnqRv8UUjCY5B365DMMqCkC1",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

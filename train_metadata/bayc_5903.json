@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmSA9k7i2GChiyjPY8QAktpmXv6NM1P1f53Pp3yLwLepJS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    }
+  ]
+}

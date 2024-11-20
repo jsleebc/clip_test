@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZBnjfrrnXokwC68QMmkRXt1TZSKLsgBYwMvB6grGDP2s",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmT6hYN7oG1GSrSMqV1pm7mjRTcXj7u2PX4qbW1UqjLWyM",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmW5UszWJT4h5R7JuksqMmxeXF2K3zhU32s4WvjSaD8YvJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond Stud"
+    }
+  ]
+}

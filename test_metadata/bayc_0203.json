@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRacdYWKHhK4ELvnBN79gPpAsCGTQpjktcvD7eidus817",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    }
+  ]
+}

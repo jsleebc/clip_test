@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdiZfVGKVb4nPeXRG6yAoiEW5JiHe8bd4P73nujSYvTcf",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stunt Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    }
+  ]
+}

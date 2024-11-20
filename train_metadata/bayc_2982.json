@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmSUb13GFStEA5oNwpAYaSwaXBzgDZGVddZmUfCrgUA4aW",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    }
+  ]
+}

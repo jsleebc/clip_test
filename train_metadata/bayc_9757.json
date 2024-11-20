@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPJJBJX1t3u4D4Y1hEJrLBXcYHXKD6azm3MG5mAaRS1Dv",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    }
+  ]
+}

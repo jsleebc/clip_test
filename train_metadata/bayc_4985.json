@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmbybucgFUqnHjZzJBj3nLkb4VChkCbu2ToTAwHEVHB7hC",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    }
+  ]
+}

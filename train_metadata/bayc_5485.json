@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTjzcgRB7Hizxa2cryZKjTi2xZ4LcDh2tCkKxi2ZXcykj",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    }
+  ]
+}

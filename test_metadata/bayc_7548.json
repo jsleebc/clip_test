@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUF5yQivGbvJpQer8jXRaZMfsHPS8jFwPeAEM62TTn4tV",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

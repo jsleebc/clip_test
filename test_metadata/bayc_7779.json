@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmcXxyWnfbothHgz2fnSpVqRdUvgEevvSKWzud4Vv3mvdu",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    }
+  ]
+}

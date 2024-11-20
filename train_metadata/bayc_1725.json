@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZpGCj2bBw3jtSaTq9A5CLLkMrF1i2YQ9MJVF2kLbodEW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Beams"
+    }
+  ]
+}

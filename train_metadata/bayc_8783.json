@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVXrdMiwgQGQvJVC4yHgeyxUiTdp68A6nHYNm2CQdwUd9",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    }
+  ]
+}

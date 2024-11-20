@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfCvj1zt86B4vBFUN8eE29VtgyhEYCoqJfURs3ULpdJT5",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    }
+  ]
+}

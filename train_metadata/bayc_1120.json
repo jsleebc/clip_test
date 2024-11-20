@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmToW3786EujkFpbLcrsFzfSVbPv8MqdptiMPDBNdvKom3",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Beams"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

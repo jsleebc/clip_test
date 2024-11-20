@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTxTVbz5iDjFTfpQ9aWedfQXBEQqvPgwsZMtczpLhAfh9",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    }
+  ]
+}

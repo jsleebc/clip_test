@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTekYDaD9c7Wf5uA9rBhT7DPkBmDAqo5XP2xXNewKZumJ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    }
+  ]
+}

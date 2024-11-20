@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdSwkdVrWJX5pYbBeevxvW8uoEHcoctXHsrsWYmeu6k3w",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    }
+  ]
+}

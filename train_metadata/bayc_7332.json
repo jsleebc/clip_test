@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmf9UYFmpE9ZQaT7zP8AoRRo18CYeKsU27dPRxbHqLsJHf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    }
+  ]
+}

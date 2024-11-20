@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmQi9a1rZperF3LZa3bnk4mXUQYa71yQ2bsxgqcDzgDT6D",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Safari"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    }
+  ]
+}

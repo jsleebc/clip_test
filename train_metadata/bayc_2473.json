@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeGjxqDq7ajLBC2VLYiy8op1dFThgGBk2kjtbB8kfapCX",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    }
+  ]
+}

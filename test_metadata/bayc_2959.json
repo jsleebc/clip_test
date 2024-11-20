@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUZShxQx7L5CmAXyACmu7gPtYvXKGnif8HBcWYBgqDrkk",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    }
+  ]
+}

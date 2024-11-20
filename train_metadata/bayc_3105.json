@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXZoqMXkvtohLjv19F2FKKcRKGJ8axpZ8ewgBrid1Xc67",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

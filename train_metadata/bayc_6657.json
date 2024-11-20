@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmUdT5S3pJPQqWebpS3DqRZgkcc1Ntvf61iRK6tbdbNAWM",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    }
+  ]
+}

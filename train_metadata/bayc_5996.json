@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZ5Cj3YJEUDtvNi8U24fQtKbWwrC18SPRRKkx4iA2kKMt",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    }
+  ]
+}

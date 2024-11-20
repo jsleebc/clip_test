@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeQU2jmpU7ZGwsbWNHpGC1PsX83RBT1TyYGuJim8dUcU9",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Laurel Wreath"
+    }
+  ]
+}

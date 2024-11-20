@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmfZc1QSfvvGvSSXKqwVXc5pemYzo2HX1bwgM9aByT3GwL",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

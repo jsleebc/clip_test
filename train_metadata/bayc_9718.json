@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeEhHPn8bZ5NLAwaUX8oJdmLiso3QrouSwL5KYcPEoXV8",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ]
+}

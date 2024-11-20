@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUuCU79o2Nxva8Yqm6zMSgxKarsksgnrkwXM5ByxnHXC6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    }
+  ]
+}

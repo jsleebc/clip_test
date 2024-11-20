@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcKk7t69qrLUs2c9L3mqTeaePp1XxfAD8dcziS83Khtj3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    }
+  ]
+}

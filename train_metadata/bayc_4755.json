@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUQvsi1yhXTUKKQbZukTAogA82WyeGfMDPPK2Lp1SwxXy",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    }
+  ]
+}

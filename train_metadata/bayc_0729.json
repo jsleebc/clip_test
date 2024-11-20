@@ -1,0 +1,33 @@
+{
+  "image": "ipfs://QmevpebafDYkU8gHpJv5vxMnWeAdUeFyRpLBDHrvSeaZCk",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    }
+  ]
+}

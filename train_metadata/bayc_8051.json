@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdbLBBc9CDpwwoy7BpsLMis48NJzhs3ZVTT8ZADNzv6Pt",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    }
+  ]
+}

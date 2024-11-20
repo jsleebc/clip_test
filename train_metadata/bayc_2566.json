@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb9VqTEfEA6T54RmEdWoQRmaoTazkVWAKEQQD27hjEqVi",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme L"
+    }
+  ]
+}

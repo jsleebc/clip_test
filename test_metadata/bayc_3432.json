@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmWT2gN7oR43Px6o4HLqaPKNXpRkhEZ6m9WMN7gqm2t4h7",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    }
+  ]
+}

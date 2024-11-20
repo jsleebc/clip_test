@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZHcEsZA7DBq4WEfychNU2pWEbi7EXqLydPrbALQdkQ3P",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prom Dress"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}

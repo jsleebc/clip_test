@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmWqrCh77iAvy2RDkquA1VrUepo7p4WPU9s97re8ubcmzc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

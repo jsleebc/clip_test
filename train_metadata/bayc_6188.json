@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmXg9MHaQbXanwctmhyzTP2KRx8CEg9Bn9hbDc2YRqHiEz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Irish Boho"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    }
+  ]
+}

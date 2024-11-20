@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaURKGLuFd3SYa3qjpKr3MP7m2BQEZZkhtaqRtJNvmfog",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmS9MLhxqsZh5BQwrs8FaAZDaWFTgaoCF2Pr9KeUipf4at",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Party horn"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    }
+  ]
+}

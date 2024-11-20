@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmdoiKTmnWXC7b97U8gkApPvJVSvf5caxjtyBsY3o72vYy",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

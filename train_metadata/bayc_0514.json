@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdMzs57rpFKMYq4CXPhS6Qqa9UEiGAR2eFHVx236nMWdv",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Tweed Suit"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    }
+  ]
+}

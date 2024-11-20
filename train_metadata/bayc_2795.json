@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmS3t36ctAZLuxvdUijsLdp3m4PQWTnvwgrfd1WZDYPyCR",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    }
+  ]
+}

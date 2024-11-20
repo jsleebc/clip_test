@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPubW14Li4cb4QdiB8UZ13fqhaXWZCaySAAtEcYpZMU4U",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcSq7YCNxHe3fCCWmLMJG9sMiYYqqCua6Eak8Zu2fw6Ap",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    }
+  ]
+}

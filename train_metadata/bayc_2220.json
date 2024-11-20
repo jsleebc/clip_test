@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmZjiNfV2asRZFfH3q66CSkb2FLBy3vpFi9mHUAiReWGNG",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

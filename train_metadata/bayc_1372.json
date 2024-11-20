@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeeXCoxuvxKrKrDrPR2WWtvGEPrb9qY5xqvuZSzBKSw4s",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Punk Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    }
+  ]
+}

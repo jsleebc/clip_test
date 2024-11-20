@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZ9a5xD7CkymL6MtxN2gBGryhKVPt4fovgGjSUqevye4M",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    }
+  ]
+}

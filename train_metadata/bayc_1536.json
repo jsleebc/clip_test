@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmaPyRUapJjQXzqb3scCX5gycN6dyqFRY5phd64V97upAP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    }
+  ]
+}

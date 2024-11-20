@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRTia8PQiJyAqDN36sfn9zruvE8a7QfiPNRuCAYq12G5A",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    }
+  ]
+}

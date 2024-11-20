@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTyESK1j5RVmArC192UFY2wSerQEBmMRQ7NBvDvybg7Tu",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    }
+  ]
+}

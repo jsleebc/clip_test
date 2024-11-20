@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNSr21WgZzE4Vt4fFw5u6WCKKJc2JDYWFMH9UPZRMyBbL",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    }
+  ]
+}

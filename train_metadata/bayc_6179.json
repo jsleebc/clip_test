@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUnk4qiHHhWh1ram1aAjFXAByDhTn8z85tN48Pt3Wcrjw",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Black"
+    }
+  ]
+}

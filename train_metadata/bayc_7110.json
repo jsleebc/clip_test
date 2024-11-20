@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmbAa7w9HGgsqp3NofPJ4sEybx5P9ug2cu6XNnrgmMJkdq",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    }
+  ]
+}

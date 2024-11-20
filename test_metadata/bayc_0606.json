@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZ7tTWNNy3sjmNvUkTigMJ6Kb7B2z5GYZecXrFFAZfHDa",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    }
+  ]
+}

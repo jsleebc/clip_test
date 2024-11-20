@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTGK3Pbj1n48GLQ5qWe7bHvYZiFhKRx1vZ3T6A8xfovCc",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    }
+  ]
+}

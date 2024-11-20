@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPNtxZhfww9XPurc69gGoNUAnQPuUrR94oEn2d7rASZDj",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}

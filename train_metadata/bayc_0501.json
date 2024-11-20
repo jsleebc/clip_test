@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmahvLx38vLdGfDzuDut7pYLWhEryZZVGUtnu1ZtzTsnJJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    }
+  ]
+}

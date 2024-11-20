@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmZF7iV8VZhRiUrFUGyvEeV1QwaPgmppho2uUDLXYzjNQ1",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    }
+  ]
+}

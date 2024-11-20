@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qma8KTgPEPWB3CKQyX1mKXDZzpS1KQpic1LHwDAwwWDGoD",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "S&m Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}

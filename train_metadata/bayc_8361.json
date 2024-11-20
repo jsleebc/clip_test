@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmX42B7jnUgM95cY4sjL4SQ9Le3q8Gggn9LrN31HpLWomD",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    }
+  ]
+}

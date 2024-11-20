@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmP29w6fsKxqJdErmV3k14vJzCVDCgLiTopJcaa17G3FGa",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Police Motorcycle Helmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

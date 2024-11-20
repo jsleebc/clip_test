@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeKRSKcyGtuyen5zoBbatYcoPWj4PwyFsFqPPigX9USB2",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Diamond Grill"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    }
+  ]
+}

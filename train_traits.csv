@@ -1,0 +1,169 @@
+Trait Type,Value,Count,Percentage
+Fur,Black,1016,12.7
+Fur,Noise,127,1.59
+Fur,White,320,4.0
+Fur,Zombie,244,3.05
+Fur,Cheetah,313,3.91
+Fur,Dmt,171,2.14
+Fur,Blue,392,4.9
+Fur,Tan,502,6.28
+Fur,Dark Brown,1089,13.61
+Fur,Brown,1087,13.59
+Fur,Death Bot,137,1.71
+Fur,Gray,403,5.04
+Fur,Red,372,4.65
+Fur,Pink,411,5.14
+Fur,Golden Brown,623,7.79
+Fur,Solid Gold,35,0.44
+Fur,Cream,490,6.12
+Fur,Robot,213,2.66
+Fur,Trippy,55,0.69
+Eyes,Bored,1376,17.2
+Eyes,Blue Beams,36,0.45
+Eyes,Sleepy,612,7.65
+Eyes,Cyborg,88,1.1
+Eyes,Closed,529,6.61
+Eyes,Angry,356,4.45
+Eyes,Heart,311,3.89
+Eyes,Coins,369,4.61
+Eyes,Bloodshot,695,8.69
+Eyes,Crazy,333,4.16
+Eyes,Laser Eyes,52,0.65
+Eyes,Blindfold,212,2.65
+Eyes,Wide Eyed,444,5.55
+Eyes,Sad,447,5.59
+Eyes,Scumbag,201,2.51
+Eyes,3d,381,4.76
+Eyes,Zombie,246,3.08
+Eyes,X Eyes,205,2.56
+Eyes,Sunglasses,283,3.54
+Eyes,Hypnotized,180,2.25
+Eyes,Holographic,120,1.5
+Eyes,Robot,272,3.4
+Eyes,Eyepatch,252,3.15
+Clothes,Leather Punk Jacket,127,1.59
+Clothes,Puffy Vest,193,2.41
+Clothes,Guayabera,169,2.11
+Clothes,Black Holes T,168,2.1
+Clothes,Lab Coat,122,1.52
+Clothes,Bone Necklace,157,1.96
+Clothes,Sailor Shirt,236,2.95
+Clothes,Wool Turtleneck,192,2.4
+Clothes,Tanktop,192,2.4
+Clothes,Sleeveless T,191,2.39
+Clothes,Rainbow Suspenders,114,1.43
+Clothes,Stunt Jacket,138,1.73
+Clothes,Vietnam Jacket,191,2.39
+Clothes,Black T,270,3.38
+Clothes,Tie Dye,110,1.38
+Clothes,Smoking Jacket,177,2.21
+Clothes,Bayc T Red,115,1.44
+Clothes,Service,118,1.47
+Clothes,Bayc T Black,179,2.24
+Clothes,Work Vest,160,2.0
+Clothes,Leather Jacket,171,2.14
+Clothes,Space Suit,88,1.1
+Clothes,Blue Dress,84,1.05
+Clothes,Biker Vest,188,2.35
+Clothes,Hawaiian,223,2.79
+Clothes,Toga,160,2.0
+Clothes,Black Suit,35,0.44
+Clothes,Navy Striped Tee,270,3.38
+Clothes,Striped Tee,336,4.2
+Clothes,Lumberjack Shirt,165,2.06
+Clothes,Kings Robe,59,0.74
+Clothes,Bandolier,124,1.55
+Clothes,Prison Jumpsuit,186,2.33
+Clothes,Tuxedo Tee,187,2.34
+Clothes,Sleeveless Logo T,120,1.5
+Clothes,Admirals Coat,49,0.61
+Clothes,Cowboy Shirt,100,1.25
+Clothes,Bone Tee,174,2.17
+Clothes,Caveman Pelt,132,1.65
+Clothes,Hip Hop,94,1.18
+Clothes,Pimp Coat,65,0.81
+Clothes,Tweed Suit,118,1.47
+Clothes,Prom Dress,84,1.05
+Mouth,Bored Unshaven,1244,15.55
+Mouth,Bored Bubblegum,91,1.14
+Mouth,Dumbfounded,393,4.91
+Mouth,Bored Unshaven Kazoo,52,0.65
+Mouth,Bored,1828,22.85
+Mouth,Rage,203,2.54
+Mouth,Bored Cigarette,561,7.01
+Mouth,Grin,579,7.24
+Mouth,Bored Unshaven Cigarette,345,4.31
+Mouth,Bored Party Horn,70,0.88
+Mouth,Discomfort,166,2.08
+Mouth,Phoneme Vuh,278,3.48
+Mouth,Phoneme  ooo,195,2.44
+Mouth,Grin Multicolored,95,1.19
+Mouth,Bored Cigar,93,1.16
+Mouth,Grin Diamond Grill,61,0.76
+Mouth,Small Grin,220,2.75
+Mouth,Bored Unshaven Dagger,17,0.21
+Mouth,Bored Pipe,108,1.35
+Mouth,Phoneme Oh,197,2.46
+Mouth,Phoneme Wah,134,1.68
+Mouth,Grin Gold Grill,73,0.91
+Mouth,Phoneme L,199,2.49
+Mouth,Bored Pizza,42,0.53
+Mouth,Bored Unshaven Pipe,83,1.04
+Mouth,Jovial,235,2.94
+Mouth,Tongue Out,153,1.91
+Mouth,Bored Unshaven Cigar,75,0.94
+Mouth,Bored Unshaven Party horn,38,0.47
+Mouth,Bored Kazoo,56,0.7
+Mouth,Bored Unshaven Bubblegum,53,0.66
+Mouth,Bored Dagger,42,0.53
+Mouth,Bored Unshaven Pizza,21,0.26
+Background,New Punk Blue,969,12.11
+Background,Purple,1054,13.18
+Background,Blue,994,12.43
+Background,Army Green,996,12.45
+Background,Gray,953,11.91
+Background,Yellow,1023,12.79
+Background,Orange,998,12.47
+Background,Aquamarine,1013,12.66
+Hat,Bunny Ears,157,1.96
+Hat,Spinner Hat,145,1.81
+Hat,Sea Captain's Hat,241,3.01
+Hat,Fisherman's Hat,289,3.61
+Hat,Ww2 Pilot Helm,86,1.07
+Hat,Sushi Chef Headband,159,1.99
+Hat,Bayc Hat Red,97,1.21
+Hat,Beanie,477,5.96
+Hat,S&m Hat,191,2.39
+Hat,Bowler,216,2.7
+Hat,Girl's Hair Short,122,1.52
+Hat,Halo,253,3.16
+Hat,Stuntman Helmet,117,1.46
+Hat,Cowboy Hat,287,3.59
+Hat,Police Motorcycle Helmet,93,1.16
+Hat,Safari,145,1.81
+Hat,Bandana Blue,69,0.86
+Hat,Baby's Bonnet,125,1.56
+Hat,Short Mohawk,250,3.12
+Hat,King's Crown,64,0.8
+Hat,Bayc Hat Black,174,2.17
+Hat,Army Hat,248,3.1
+Hat,Seaman's Hat,339,4.24
+Hat,Horns,196,2.45
+Hat,Vietnam Era Helmet,181,2.26
+Hat,Bayc Flipped Brim,181,2.26
+Hat,Irish Boho,176,2.2
+Hat,Commie Hat,239,2.99
+Hat,Fez,292,3.65
+Hat,Party Hat 1,97,1.21
+Hat,Faux Hawk,105,1.31
+Hat,Party Hat 2,86,1.07
+Hat,Girl's Hair Pink,83,1.04
+Hat,Prussian Helmet,103,1.29
+Hat,Laurel Wreath,54,0.68
+Hat,Trippy Captain's Hat,46,0.57
+Earring,Gold Stud,352,4.4
+Earring,Cross,118,1.47
+Earring,Gold Hoop,379,4.74
+Earring,Silver Hoop,720,9.0
+Earring,Silver Stud,664,8.3
+Earring,Diamond Stud,173,2.16

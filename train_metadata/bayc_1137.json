@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQAySYNqRKZCjiEb2wddtyKXw97mHp2Wbc6CMeZtrAseL",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    }
+  ]
+}

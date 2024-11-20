@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmVjz2UUY9kWrmmqiyo2UoyVyfqd3JJmSKJLKGj6ULXvDb",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    }
+  ]
+}

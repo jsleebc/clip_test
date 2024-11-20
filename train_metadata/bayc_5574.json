@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmd4uMm9qV5mgcGcNuThHL3RtsbFgJvef8EMMkA7U2L64q",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    }
+  ]
+}

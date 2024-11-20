@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQrsHjQ99RndrMbGNcvwcWaKd8tmNK8otCLHQBbPK46HM",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    }
+  ]
+}

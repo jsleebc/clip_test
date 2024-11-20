@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmVMsPoZbSNjPaY8GE418aW1D8ELFgVuL6w4JRK7qL8J6x",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    }
+  ]
+}

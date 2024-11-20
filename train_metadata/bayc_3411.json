@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYDVAQnic7aSG8BLLayGkEQUYeTNu48UHXoAziPWJqDvp",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Trippy Captain's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bone Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}

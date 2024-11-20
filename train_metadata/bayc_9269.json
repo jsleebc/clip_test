@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNUFyDVzPCTZX6bHjJaoJTiFmjYwJ9XZ7ZzMBHkZm7WFp",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Work Vest"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    }
+  ]
+}

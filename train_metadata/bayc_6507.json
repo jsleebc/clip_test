@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaJWZm17q5m2U6xC5JtEUGMSMKXuDcDXMAm6sse39wmqJ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    }
+  ]
+}

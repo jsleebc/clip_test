@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSQDWPyHgCDLkhGpfH2L9Sss7MgDFc7QwAjZr4nb8Tmku",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cowboy Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}

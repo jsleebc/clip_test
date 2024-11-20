@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaDSQP9WzN97n2yC2h2NCcoef1Mop5rDCrvAudSASYzm9",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWwjWgJG1zJd7LeM5K8H4ADwywurxnjTa8nkAKE3WdHww",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    }
+  ]
+}

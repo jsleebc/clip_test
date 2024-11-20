@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmYBrbRoqoJEqpRF3GMHeP9aARa82eTWSEmmj2yyhFZCkH",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Prison Jumpsuit"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Prussian Helmet"
+    }
+  ]
+}

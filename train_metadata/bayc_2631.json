@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmf2mc3Z1aq6Uwo2PUYrTD6TMnnssgAvfxZzVeEJebC2q6",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    }
+  ]
+}

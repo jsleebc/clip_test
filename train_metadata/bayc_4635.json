@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmPgiqBuhFpoRyULaCTHcVh9zkCPVhbAgLBA4j4edW3bmd",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Suit"
+    }
+  ]
+}

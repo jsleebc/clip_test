@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmTz4AzBeZPGRDk8jsfrnS6Ti7K6tL4Lo5LNXJWWrAzYRu",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ]
+}

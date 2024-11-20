@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWcFnDtpYwqFy72q6MtTpBFabUjngKdDsXK1oeQzCaknS",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baby's Bonnet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    }
+  ]
+}

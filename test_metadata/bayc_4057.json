@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmdtQcEop5ZNWtN3z1MFQryoqxjhmXnsdwxyH7JSRHyB6h",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    }
+  ]
+}

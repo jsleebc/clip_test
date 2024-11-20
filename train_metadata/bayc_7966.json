@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmfQevftoXzKUnAWWcxpSDqMhSLag18Wn19jpiYRZ9PgCg",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    }
+  ]
+}

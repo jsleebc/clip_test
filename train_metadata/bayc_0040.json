@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWykq5cb9YTrNTH6XAe5KagFBtTTPB82PKNw5f9ZiGiLf",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Spinner Hat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRdiJ5dCY8skikJ5Md7q3mXjQZywFXUGh2pMyu1QruJJf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    }
+  ]
+}

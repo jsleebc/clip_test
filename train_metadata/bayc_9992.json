@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmPediLJS4nYpf3T1Rtjnge2iawVf58WKjgnfQzkTGCj8g",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmeMK9YGLYdVQchpPZ8Jkr2BrJr5VcWkCMPhxcK6skk1cm",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Rainbow Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigar"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmUN6N8FiiB3anJoMDx9FXJEceRJp34xeJW4ho8CpCvpwv",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

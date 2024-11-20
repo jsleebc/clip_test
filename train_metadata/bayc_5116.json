@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmWoReFfSLAUVeY6ujrJVTCU5ABDkL9pfSLNDYXzbHM9Kt",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Pelt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Trippy"
+    }
+  ]
+}

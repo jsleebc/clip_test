@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYWgN23g6oMWmF2ujEwoFrnB47ibrmjDXP5wQxnUbHHmh",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stuntman Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

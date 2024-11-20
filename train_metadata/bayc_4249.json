@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmdiVZPKKXw8gz7a9pCag7djtWd9fY7EouhJaMipRdXB3S",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    }
+  ]
+}

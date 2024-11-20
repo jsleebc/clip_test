@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcmigN474hsE27wyAsx13CGPtMAZ2ovs6fwiY9LumJwxd",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmb3PgEPRtxg5UjryV9XABnUPCp56ioExvfpfSfa5VCoYM",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    }
+  ]
+}

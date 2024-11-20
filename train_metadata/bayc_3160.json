@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmefYkYjZ1ibZhcmMrtA2QttJcQ6gCy9NEiQ8sg9FKUtWG",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    }
+  ]
+}

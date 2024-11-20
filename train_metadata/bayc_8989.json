@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSMTGYCpvraFfJE9ZTf4QNYkbngmhN6oFkKH8BXLGpzWz",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    }
+  ]
+}

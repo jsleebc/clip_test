@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qmcz6PSfCc9tTzp79GcPMzGi5qPhL24nawotF8ABAwUsxF",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    }
+  ]
+}

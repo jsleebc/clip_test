@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmaNiBihY51Sn9J4ez4h4gy6zXXLaN1QjmvhH1D8mBEVbG",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    }
+  ]
+}

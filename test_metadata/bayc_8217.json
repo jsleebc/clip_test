@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY7jhxh5GBKznaFyFGxVBkkSPSHMc41HkYZaJoEpSQcH4",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scumbag"
+    }
+  ]
+}

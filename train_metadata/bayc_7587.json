@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmUubNZcpMN3FrcGuWirSuxzhzZGMdhmghky9JXqVrGNVC",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    }
+  ]
+}

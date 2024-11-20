@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qma6gZp9VuE1bRaCLsaWYjYpPJLRvPBMBDTyaCJMGt7Mk8",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    }
+  ]
+}

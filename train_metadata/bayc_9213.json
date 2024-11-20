@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmU9S5ZmvEAd3amPYL9GPoC4pak3DtfjJbusRatDuDo5Jt",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    }
+  ]
+}

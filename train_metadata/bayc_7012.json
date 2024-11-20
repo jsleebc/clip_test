@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNmKiHLtLKYmhRdi1Mr3dmXjfwMpCnHdKonDZz8d8acZw",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pipe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    }
+  ]
+}

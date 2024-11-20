@@ -1,0 +1,880 @@
+{
+  "total_traits": 7,
+  "traits": {
+    "Eyes": {
+      "total_values": 23,
+      "values": [
+        {
+          "value": "Angry",
+          "count": 76,
+          "percentage": 3.8
+        },
+        {
+          "value": "Closed",
+          "count": 181,
+          "percentage": 9.05
+        },
+        {
+          "value": "Robot",
+          "count": 78,
+          "percentage": 3.9
+        },
+        {
+          "value": "Wide Eyed",
+          "count": 105,
+          "percentage": 5.25
+        },
+        {
+          "value": "Heart",
+          "count": 83,
+          "percentage": 4.15
+        },
+        {
+          "value": "Sleepy",
+          "count": 139,
+          "percentage": 6.95
+        },
+        {
+          "value": "Bloodshot",
+          "count": 151,
+          "percentage": 7.55
+        },
+        {
+          "value": "Coins",
+          "count": 110,
+          "percentage": 5.5
+        },
+        {
+          "value": "Sunglasses",
+          "count": 69,
+          "percentage": 3.45
+        },
+        {
+          "value": "Sad",
+          "count": 104,
+          "percentage": 5.2
+        },
+        {
+          "value": "Hypnotized",
+          "count": 40,
+          "percentage": 2.0
+        },
+        {
+          "value": "Crazy",
+          "count": 74,
+          "percentage": 3.7
+        },
+        {
+          "value": "Eyepatch",
+          "count": 81,
+          "percentage": 4.05
+        },
+        {
+          "value": "Bored",
+          "count": 338,
+          "percentage": 16.91
+        },
+        {
+          "value": "Zombie",
+          "count": 62,
+          "percentage": 3.1
+        },
+        {
+          "value": "3d",
+          "count": 106,
+          "percentage": 5.3
+        },
+        {
+          "value": "Laser Eyes",
+          "count": 17,
+          "percentage": 0.85
+        },
+        {
+          "value": "Scumbag",
+          "count": 31,
+          "percentage": 1.55
+        },
+        {
+          "value": "Blindfold",
+          "count": 52,
+          "percentage": 2.6
+        },
+        {
+          "value": "X Eyes",
+          "count": 38,
+          "percentage": 1.9
+        },
+        {
+          "value": "Holographic",
+          "count": 31,
+          "percentage": 1.55
+        },
+        {
+          "value": "Cyborg",
+          "count": 20,
+          "percentage": 1.0
+        },
+        {
+          "value": "Blue Beams",
+          "count": 13,
+          "percentage": 0.65
+        }
+      ]
+    },
+    "Fur": {
+      "total_values": 19,
+      "values": [
+        {
+          "value": "Tan",
+          "count": 124,
+          "percentage": 6.2
+        },
+        {
+          "value": "Brown",
+          "count": 283,
+          "percentage": 14.16
+        },
+        {
+          "value": "Dark Brown",
+          "count": 263,
+          "percentage": 13.16
+        },
+        {
+          "value": "Black",
+          "count": 213,
+          "percentage": 10.66
+        },
+        {
+          "value": "White",
+          "count": 77,
+          "percentage": 3.85
+        },
+        {
+          "value": "Death Bot",
+          "count": 38,
+          "percentage": 1.9
+        },
+        {
+          "value": "Red",
+          "count": 102,
+          "percentage": 5.1
+        },
+        {
+          "value": "Cream",
+          "count": 146,
+          "percentage": 7.3
+        },
+        {
+          "value": "Pink",
+          "count": 100,
+          "percentage": 5.0
+        },
+        {
+          "value": "Blue",
+          "count": 98,
+          "percentage": 4.9
+        },
+        {
+          "value": "Golden Brown",
+          "count": 155,
+          "percentage": 7.75
+        },
+        {
+          "value": "Robot",
+          "count": 52,
+          "percentage": 2.6
+        },
+        {
+          "value": "Zombie",
+          "count": 58,
+          "percentage": 2.9
+        },
+        {
+          "value": "Cheetah",
+          "count": 93,
+          "percentage": 4.65
+        },
+        {
+          "value": "Noise",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Gray",
+          "count": 92,
+          "percentage": 4.6
+        },
+        {
+          "value": "Trippy",
+          "count": 22,
+          "percentage": 1.1
+        },
+        {
+          "value": "Dmt",
+          "count": 44,
+          "percentage": 2.2
+        },
+        {
+          "value": "Solid Gold",
+          "count": 11,
+          "percentage": 0.55
+        }
+      ]
+    },
+    "Background": {
+      "total_values": 8,
+      "values": [
+        {
+          "value": "New Punk Blue",
+          "count": 263,
+          "percentage": 13.16
+        },
+        {
+          "value": "Aquamarine",
+          "count": 253,
+          "percentage": 12.66
+        },
+        {
+          "value": "Army Green",
+          "count": 247,
+          "percentage": 12.36
+        },
+        {
+          "value": "Blue",
+          "count": 248,
+          "percentage": 12.41
+        },
+        {
+          "value": "Yellow",
+          "count": 260,
+          "percentage": 13.01
+        },
+        {
+          "value": "Purple",
+          "count": 236,
+          "percentage": 11.81
+        },
+        {
+          "value": "Gray",
+          "count": 217,
+          "percentage": 10.86
+        },
+        {
+          "value": "Orange",
+          "count": 275,
+          "percentage": 13.76
+        }
+      ]
+    },
+    "Mouth": {
+      "total_values": 33,
+      "values": [
+        {
+          "value": "Bored Cigarette",
+          "count": 149,
+          "percentage": 7.45
+        },
+        {
+          "value": "Bored Party Horn",
+          "count": 18,
+          "percentage": 0.9
+        },
+        {
+          "value": "Bored Unshaven",
+          "count": 306,
+          "percentage": 15.31
+        },
+        {
+          "value": "Discomfort",
+          "count": 42,
+          "percentage": 2.1
+        },
+        {
+          "value": "Bored",
+          "count": 444,
+          "percentage": 22.21
+        },
+        {
+          "value": "Bored Unshaven Pizza",
+          "count": 5,
+          "percentage": 0.25
+        },
+        {
+          "value": "Phoneme L",
+          "count": 42,
+          "percentage": 2.1
+        },
+        {
+          "value": "Bored Dagger",
+          "count": 7,
+          "percentage": 0.35
+        },
+        {
+          "value": "Phoneme Wah",
+          "count": 29,
+          "percentage": 1.45
+        },
+        {
+          "value": "Rage",
+          "count": 63,
+          "percentage": 3.15
+        },
+        {
+          "value": "Bored Pipe",
+          "count": 24,
+          "percentage": 1.2
+        },
+        {
+          "value": "Bored Unshaven Cigarette",
+          "count": 93,
+          "percentage": 4.65
+        },
+        {
+          "value": "Tongue Out",
+          "count": 49,
+          "percentage": 2.45
+        },
+        {
+          "value": "Bored Bubblegum",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Bored Unshaven Kazoo",
+          "count": 9,
+          "percentage": 0.45
+        },
+        {
+          "value": "Bored Cigar",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Bored Unshaven Dagger",
+          "count": 11,
+          "percentage": 0.55
+        },
+        {
+          "value": "Bored Unshaven Cigar",
+          "count": 19,
+          "percentage": 0.95
+        },
+        {
+          "value": "Dumbfounded",
+          "count": 112,
+          "percentage": 5.6
+        },
+        {
+          "value": "Phoneme  ooo",
+          "count": 60,
+          "percentage": 3.0
+        },
+        {
+          "value": "Grin Diamond Grill",
+          "count": 17,
+          "percentage": 0.85
+        },
+        {
+          "value": "Small Grin",
+          "count": 52,
+          "percentage": 2.6
+        },
+        {
+          "value": "Phoneme Vuh",
+          "count": 55,
+          "percentage": 2.75
+        },
+        {
+          "value": "Jovial",
+          "count": 61,
+          "percentage": 3.05
+        },
+        {
+          "value": "Grin",
+          "count": 134,
+          "percentage": 6.7
+        },
+        {
+          "value": "Bored Kazoo",
+          "count": 18,
+          "percentage": 0.9
+        },
+        {
+          "value": "Grin Gold Grill",
+          "count": 18,
+          "percentage": 0.9
+        },
+        {
+          "value": "Bored Unshaven Bubblegum",
+          "count": 12,
+          "percentage": 0.6
+        },
+        {
+          "value": "Phoneme Oh",
+          "count": 40,
+          "percentage": 2.0
+        },
+        {
+          "value": "Bored Unshaven Pipe",
+          "count": 18,
+          "percentage": 0.9
+        },
+        {
+          "value": "Bored Pizza",
+          "count": 8,
+          "percentage": 0.4
+        },
+        {
+          "value": "Grin Multicolored",
+          "count": 21,
+          "percentage": 1.05
+        },
+        {
+          "value": "Bored Unshaven Party horn",
+          "count": 7,
+          "percentage": 0.35
+        }
+      ]
+    },
+    "Clothes": {
+      "total_values": 43,
+      "values": [
+        {
+          "value": "Striped Tee",
+          "count": 76,
+          "percentage": 3.8
+        },
+        {
+          "value": "Bone Tee",
+          "count": 56,
+          "percentage": 2.8
+        },
+        {
+          "value": "Hip Hop",
+          "count": 34,
+          "percentage": 1.7
+        },
+        {
+          "value": "Leather Jacket",
+          "count": 35,
+          "percentage": 1.75
+        },
+        {
+          "value": "Tie Dye",
+          "count": 34,
+          "percentage": 1.7
+        },
+        {
+          "value": "Smoking Jacket",
+          "count": 44,
+          "percentage": 2.2
+        },
+        {
+          "value": "Tweed Suit",
+          "count": 23,
+          "percentage": 1.15
+        },
+        {
+          "value": "Tanktop",
+          "count": 43,
+          "percentage": 2.15
+        },
+        {
+          "value": "Hawaiian",
+          "count": 60,
+          "percentage": 3.0
+        },
+        {
+          "value": "Cowboy Shirt",
+          "count": 19,
+          "percentage": 0.95
+        },
+        {
+          "value": "Bayc T Red",
+          "count": 25,
+          "percentage": 1.25
+        },
+        {
+          "value": "Work Vest",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Black T",
+          "count": 64,
+          "percentage": 3.2
+        },
+        {
+          "value": "Tuxedo Tee",
+          "count": 48,
+          "percentage": 2.4
+        },
+        {
+          "value": "Navy Striped Tee",
+          "count": 64,
+          "percentage": 3.2
+        },
+        {
+          "value": "Prison Jumpsuit",
+          "count": 49,
+          "percentage": 2.45
+        },
+        {
+          "value": "Vietnam Jacket",
+          "count": 33,
+          "percentage": 1.65
+        },
+        {
+          "value": "Leather Punk Jacket",
+          "count": 26,
+          "percentage": 1.3
+        },
+        {
+          "value": "Wool Turtleneck",
+          "count": 48,
+          "percentage": 2.4
+        },
+        {
+          "value": "Sleeveless Logo T",
+          "count": 24,
+          "percentage": 1.2
+        },
+        {
+          "value": "Bandolier",
+          "count": 39,
+          "percentage": 1.95
+        },
+        {
+          "value": "Bayc T Black",
+          "count": 36,
+          "percentage": 1.8
+        },
+        {
+          "value": "Sailor Shirt",
+          "count": 48,
+          "percentage": 2.4
+        },
+        {
+          "value": "Caveman Pelt",
+          "count": 31,
+          "percentage": 1.55
+        },
+        {
+          "value": "Pimp Coat",
+          "count": 15,
+          "percentage": 0.75
+        },
+        {
+          "value": "Biker Vest",
+          "count": 65,
+          "percentage": 3.25
+        },
+        {
+          "value": "Prom Dress",
+          "count": 19,
+          "percentage": 0.95
+        },
+        {
+          "value": "Puffy Vest",
+          "count": 34,
+          "percentage": 1.7
+        },
+        {
+          "value": "Blue Dress",
+          "count": 11,
+          "percentage": 0.55
+        },
+        {
+          "value": "Black Suit",
+          "count": 7,
+          "percentage": 0.35
+        },
+        {
+          "value": "Guayabera",
+          "count": 63,
+          "percentage": 3.15
+        },
+        {
+          "value": "Sleeveless T",
+          "count": 61,
+          "percentage": 3.05
+        },
+        {
+          "value": "Admirals Coat",
+          "count": 15,
+          "percentage": 0.75
+        },
+        {
+          "value": "Black Holes T",
+          "count": 37,
+          "percentage": 1.85
+        },
+        {
+          "value": "Lab Coat",
+          "count": 22,
+          "percentage": 1.1
+        },
+        {
+          "value": "Bone Necklace",
+          "count": 46,
+          "percentage": 2.3
+        },
+        {
+          "value": "Lumberjack Shirt",
+          "count": 48,
+          "percentage": 2.4
+        },
+        {
+          "value": "Rainbow Suspenders",
+          "count": 21,
+          "percentage": 1.05
+        },
+        {
+          "value": "Stunt Jacket",
+          "count": 40,
+          "percentage": 2.0
+        },
+        {
+          "value": "Kings Robe",
+          "count": 9,
+          "percentage": 0.45
+        },
+        {
+          "value": "Toga",
+          "count": 42,
+          "percentage": 2.1
+        },
+        {
+          "value": "Space Suit",
+          "count": 17,
+          "percentage": 0.85
+        },
+        {
+          "value": "Service",
+          "count": 24,
+          "percentage": 1.2
+        }
+      ]
+    },
+    "Hat": {
+      "total_values": 36,
+      "values": [
+        {
+          "value": "Beanie",
+          "count": 101,
+          "percentage": 5.05
+        },
+        {
+          "value": "Sea Captain's Hat",
+          "count": 63,
+          "percentage": 3.15
+        },
+        {
+          "value": "Cowboy Hat",
+          "count": 67,
+          "percentage": 3.35
+        },
+        {
+          "value": "Seaman's Hat",
+          "count": 81,
+          "percentage": 4.05
+        },
+        {
+          "value": "Fez",
+          "count": 85,
+          "percentage": 4.25
+        },
+        {
+          "value": "Commie Hat",
+          "count": 65,
+          "percentage": 3.25
+        },
+        {
+          "value": "Police Motorcycle Helmet",
+          "count": 37,
+          "percentage": 1.85
+        },
+        {
+          "value": "Stuntman Helmet",
+          "count": 40,
+          "percentage": 2.0
+        },
+        {
+          "value": "Bayc Hat Black",
+          "count": 54,
+          "percentage": 2.7
+        },
+        {
+          "value": "S&m Hat",
+          "count": 44,
+          "percentage": 2.2
+        },
+        {
+          "value": "Horns",
+          "count": 56,
+          "percentage": 2.8
+        },
+        {
+          "value": "Trippy Captain's Hat",
+          "count": 19,
+          "percentage": 0.95
+        },
+        {
+          "value": "Bandana Blue",
+          "count": 20,
+          "percentage": 1.0
+        },
+        {
+          "value": "Bayc Hat Red",
+          "count": 22,
+          "percentage": 1.1
+        },
+        {
+          "value": "Ww2 Pilot Helm",
+          "count": 24,
+          "percentage": 1.2
+        },
+        {
+          "value": "Prussian Helmet",
+          "count": 27,
+          "percentage": 1.35
+        },
+        {
+          "value": "Irish Boho",
+          "count": 49,
+          "percentage": 2.45
+        },
+        {
+          "value": "Halo",
+          "count": 71,
+          "percentage": 3.55
+        },
+        {
+          "value": "Bunny Ears",
+          "count": 38,
+          "percentage": 1.9
+        },
+        {
+          "value": "Bayc Flipped Brim",
+          "count": 50,
+          "percentage": 2.5
+        },
+        {
+          "value": "Army Hat",
+          "count": 45,
+          "percentage": 2.25
+        },
+        {
+          "value": "Fisherman's Hat",
+          "count": 56,
+          "percentage": 2.8
+        },
+        {
+          "value": "Safari",
+          "count": 37,
+          "percentage": 1.85
+        },
+        {
+          "value": "Girl's Hair Short",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Party Hat 1",
+          "count": 23,
+          "percentage": 1.15
+        },
+        {
+          "value": "Bowler",
+          "count": 46,
+          "percentage": 2.3
+        },
+        {
+          "value": "Short Mohawk",
+          "count": 68,
+          "percentage": 3.4
+        },
+        {
+          "value": "Sushi Chef Headband",
+          "count": 28,
+          "percentage": 1.4
+        },
+        {
+          "value": "Vietnam Era Helmet",
+          "count": 42,
+          "percentage": 2.1
+        },
+        {
+          "value": "Faux Hawk",
+          "count": 31,
+          "percentage": 1.55
+        },
+        {
+          "value": "Laurel Wreath",
+          "count": 18,
+          "percentage": 0.9
+        },
+        {
+          "value": "Girl's Hair Pink",
+          "count": 22,
+          "percentage": 1.1
+        },
+        {
+          "value": "Spinner Hat",
+          "count": 36,
+          "percentage": 1.8
+        },
+        {
+          "value": "Party Hat 2",
+          "count": 21,
+          "percentage": 1.05
+        },
+        {
+          "value": "King's Crown",
+          "count": 13,
+          "percentage": 0.65
+        },
+        {
+          "value": "Baby's Bonnet",
+          "count": 33,
+          "percentage": 1.65
+        }
+      ]
+    },
+    "Earring": {
+      "total_values": 6,
+      "values": [
+        {
+          "value": "Silver Hoop",
+          "count": 162,
+          "percentage": 8.1
+        },
+        {
+          "value": "Gold Stud",
+          "count": 87,
+          "percentage": 4.35
+        },
+        {
+          "value": "Silver Stud",
+          "count": 159,
+          "percentage": 7.95
+        },
+        {
+          "value": "Diamond Stud",
+          "count": 49,
+          "percentage": 2.45
+        },
+        {
+          "value": "Gold Hoop",
+          "count": 82,
+          "percentage": 4.1
+        },
+        {
+          "value": "Cross",
+          "count": 31,
+          "percentage": 1.55
+        }
+      ]
+    }
+  }
+}

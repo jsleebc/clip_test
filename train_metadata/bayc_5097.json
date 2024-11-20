@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmYdEoPwKCpqWv1ihjxWxDWL6dadyFifygZKrreSJatmjn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme  ooo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    }
+  ]
+}

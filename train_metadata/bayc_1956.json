@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSiRbF8r8b2Q68VzNPw6VpgHhip6J3CNSRijW3wydseyz",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bayc Hat Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Multicolored"
+    }
+  ]
+}

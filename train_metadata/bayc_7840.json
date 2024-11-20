@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmaR33W951Ygo6CnKN4McQ1jKfVVh4sJXpUSGvy1AnAZxg",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    }
+  ]
+}

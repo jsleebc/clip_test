@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVTQu56bw4rqyo6NZsfQbTvw2Q4AtXz9vKP2YG2ToBwMW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Party Horn"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short Mohawk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    }
+  ]
+}

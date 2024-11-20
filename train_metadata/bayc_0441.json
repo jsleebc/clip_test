@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmTpvRjHLP8XL3t3P2W1aqgUcfwnUyUPch2dyQFDJVot7N",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Bandolier"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Beams"
+    }
+  ]
+}

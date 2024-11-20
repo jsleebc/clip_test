@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNx5ArBdqZmNkPJoFGsbasmvAHxxkTTEeebDpmdKBRHkF",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    }
+  ]
+}

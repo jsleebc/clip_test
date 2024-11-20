@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUbXoZCKgYU3Xz5StFJYJhKT8BRRHqjY1vmtpbDFtHaM1",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Service"
+    }
+  ]
+}

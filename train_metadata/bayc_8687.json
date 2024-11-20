@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmVgNuqwtiUJsamCUF8VQApfeehgSEiH19BVPZh7fGUCx2",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    }
+  ]
+}

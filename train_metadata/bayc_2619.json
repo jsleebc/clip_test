@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmQ9Hgo8uMYfYXFWn3HnPdWPprFymnAMaUFpyKrXyUQTp4",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    }
+  ]
+}

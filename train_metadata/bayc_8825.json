@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qma7uKfkvjN16qjmBFKATmfMG5bnL2SBU6Cq6i7CjWrD16",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "King's Crown"
+    }
+  ]
+}

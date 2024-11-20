@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmQcdQzTueRytwzAVbE9ackrxw1SVgKse2mwQ3ujJn7XFW",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dmt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

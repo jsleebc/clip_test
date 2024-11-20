@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNgTGkGdHhX7K6UfSASP1S1yPhumjmnZK3r1W9cBUzHf6",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    }
+  ]
+}

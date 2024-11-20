@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmRaGv29gcqrKJDvDc37oDZpTxjNZwRNyPHa9V1Z1m4HGM",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Smoking Jacket"
+    }
+  ]
+}

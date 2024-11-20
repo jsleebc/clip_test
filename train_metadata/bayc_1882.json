@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSYLxz5nu6qDMjSgPm8FnzCQFeSj72MdnNLJFkH6ztCjF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phoneme Wah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Trippy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUX5Cauz5ioMVtM6xfoeFcyTvBooeuAC3ar45cJ4JRwKn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sushi Chef Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    }
+  ]
+}

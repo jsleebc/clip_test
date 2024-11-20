@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmY48HXYNdcX9BRDCfgTfSPLZ7LcZbWtLo9v1eevWFUhc8",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bayc T Red"
+    }
+  ]
+}

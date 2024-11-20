@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmNrRwWtnJx845VqxDRAAQSwEf7gbYG5Tyot2zk32oSJ9j",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    }
+  ]
+}

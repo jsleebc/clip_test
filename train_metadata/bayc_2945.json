@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSQkAU86CgBAsAtPXP2iZ2452T2am5V2MKLNZ5fZ44Z9e",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kings Robe"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://Qma3Ff4HjbuFLQqCJvrqM44a9n9Uhhf33wbEk7JdtQ5zcE",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger"
+    }
+  ]
+}

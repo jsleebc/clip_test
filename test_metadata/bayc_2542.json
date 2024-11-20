@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZU31ZNkFhgpqMgaMYRCrzCfNbaz2dbAZo1xn1BiAvFFx",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Striped Tee"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat 1"
+    }
+  ]
+}

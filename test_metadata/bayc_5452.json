@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmNX9aav7NpPniJP9mvh1ubvw59JeE5USQKtccQPvgY2M3",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sea Captain's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}

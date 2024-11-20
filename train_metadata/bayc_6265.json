@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmQvrMUs9ZRXkJHDHupLcTzNoULZvsktBBuAY6yKtX8RM9",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    }
+  ]
+}

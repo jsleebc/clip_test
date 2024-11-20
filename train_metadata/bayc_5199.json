@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://Qmc2qT2ySkhEUuxspZSDcjRUTm8nPLandf9giortqMo49q",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

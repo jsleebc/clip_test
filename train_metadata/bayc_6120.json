@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmVRHadVjMhdTcoVzpDwXTHzQtSXddJEQfT3QnwGSoRnyP",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pimp Coat"
+    }
+  ]
+}

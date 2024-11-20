@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmcFmthohUA4JZFskSmEYpPakxjjCfm47xsQ3R7b3Fy6HC",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless T"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven Pipe"
+    }
+  ]
+}

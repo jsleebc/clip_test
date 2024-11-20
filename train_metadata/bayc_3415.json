@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmTeRHe56H6LZtFrYJzdXMFYzs8WuZ3gDB4FjbD4F8jGyR",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Death Bot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    }
+  ]
+}

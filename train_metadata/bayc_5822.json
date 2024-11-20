@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmZTGrQqVqtjSQjvqBojXCBRnnUuoWkVtbkozgQzGFNGC7",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Bubblegum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Girl's Hair Pink"
+    }
+  ]
+}

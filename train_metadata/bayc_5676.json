@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://QmRbNyq78mPkq69mDeaSs32jZ3kBhZ5bcQLa8pipmFK96J",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Kazoo"
+    }
+  ]
+}

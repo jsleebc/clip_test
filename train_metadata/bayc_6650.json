@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmeoyeMF4N7aj7VKi75an4DkBy4h4NM7Yru5qCLSgBqV8J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    }
+  ]
+}

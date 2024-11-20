@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSiUE8q3rsTsT7pwgAiuRTfNCU2hGRYX8VEFnwa2oso1m",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Army Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Suit"
+    }
+  ]
+}

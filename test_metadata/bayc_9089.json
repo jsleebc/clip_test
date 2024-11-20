@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmbv2tHnKsT662M2GBxPvNMQhj8uz7hYd3vZgNkD4hvPLy",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ]
+}

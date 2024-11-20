@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmUJSagpJUbXXUZw3QRgMFCKT7CWb5fTZgiJF9etbqDyUZ",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Puffy Vest"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Solid Gold"
+    }
+  ]
+}

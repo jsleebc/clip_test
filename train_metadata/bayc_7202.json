@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmNopo2z1z9gXhchcUGgGs9EoJFDq2J2WNQ5eiKuqUNoJv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Unshaven"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Dress"
+    }
+  ]
+}

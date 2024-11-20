@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmSDahoL4KfFWCawDJCaQiSQhuGNnuqVYTNCJZ9dmsVgR4",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guayabera"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Pizza"
+    }
+  ]
+}

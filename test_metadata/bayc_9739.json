@@ -1,0 +1,29 @@
+{
+  "image": "ipfs://QmU57xPFhZhVZAM4757tPTT5ytjqs9qQHnhNAGCkgEhyRc",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Ww2 Pilot Helm"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Admirals Coat"
+    }
+  ]
+}

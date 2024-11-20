@@ -1,0 +1,25 @@
+{
+  "image": "ipfs://Qmf5fPiJ1wDQePc7ErpyfNUD7aisTVznVHeE6Ji6uo8mz9",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lumberjack Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin Gold Grill"
+    }
+  ]
+}

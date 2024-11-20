@@ -1,0 +1,21 @@
+{
+  "image": "ipfs://QmTHRCezMqyGrjakT2G2afZrThS7KeQXv9U9RMxmk51tcE",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jovial"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    }
+  ]
+}
